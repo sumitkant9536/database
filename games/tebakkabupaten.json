@@ -1,337 +1,337 @@
 [
         {
             "index": 1,
-            "title": "Kabupaten Aceh Barat",
+            "title": "West Aceh Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/1/200"
         },
         {
             "index": 2,
-            "title": "Kabupaten Aceh Barat Daya",
+            "title": "Southwest Aceh Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/2/200"
         },
         {
             "index": 3,
-            "title": "Kabupaten Aceh Besar",
+            "title": "Aceh Besar District",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/3/200"
         },
         {
             "index": 4,
-            "title": "Kabupaten Aceh Jaya",
+            "title": "Aceh Jaya Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/4/200"
         },
         {
             "index": 5,
-            "title": "Kabupaten Aceh Selatan",
+            "title": "South Aceh Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/5/200"
         },
         {
             "index": 6,
-            "title": "Kabupaten Aceh Singkil",
+            "title": "Aceh Singkil Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/6/200"
         },
         {
             "index": 7,
-            "title": "Kabupaten Aceh Tamiang",
+            "title": "Aceh Tamiang Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/7/200"
         },
         {
             "index": 8,
-            "title": "Kabupaten Aceh Tengah",
+            "title": "Central Aceh Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/8/200"
         },
         {
             "index": 9,
-            "title": "Kabupaten Aceh Tenggara",
+            "title": "Southeast Aceh Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/9/200"
         },
         {
             "index": 10,
-            "title": "Kabupaten Aceh Timur",
+            "title": "East Aceh Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/10/200"
         },
         {
             "index": 11,
-            "title": "Kabupaten Aceh Utara",
+            "title": "North Aceh Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/11/200"
         },
         {
             "index": 12,
-            "title": "Kabupaten Bener Meriah",
+            "title": "Bener Meriah Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/12/200"
         },
         {
             "index": 13,
-            "title": "Kabupaten Bireuen",
+            "title": "Bireuen Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/13/200"
         },
         {
             "index": 14,
-            "title": "Kabupaten Gayo Lues",
+            "title": "Gayo Lues Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/14/200"
         },
         {
             "index": 15,
-            "title": "Kabupaten Nagan Raya",
+            "title": "Regency of Nagan Raya",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/15/200"
         },
         {
             "index": 16,
-            "title": "Kabupaten Pidie",
+            "title": "Pidie District",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/16/200"
         },
         {
             "index": 17,
-            "title": "Kabupaten Pidie Jaya",
+            "title": "Pidie Jaya Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/17/200"
         },
         {
             "index": 18,
-            "title": "Kabupaten Simeulue",
+            "title": "Simeulue County",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/18/200"
         },
         {
             "index": 19,
-            "title": "Kota Banda Aceh",
+            "title": "Banda Aceh City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/19/200"
         },
         {
             "index": 20,
-            "title": "Kota Langsa",
+            "title": "Langsa City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/20/200"
         },
         {
             "index": 21,
-            "title": "Kota Lhokseumawe",
+            "title": "Lhokseumawe City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/21/200"
         },
         {
             "index": 22,
-            "title": "Kota Sabang",
+            "title": "Sabang City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/22/200"
         },
         {
             "index": 23,
-            "title": "Kota Subulussalam",
+            "title": "City of Subulussalam",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/23/200"
         },
         {
             "index": 24,
-            "title": "Kabupaten Asahan",
+            "title": "Asahan Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/24/200"
         },
         {
             "index": 25,
-            "title": "Kabupaten Batubara",
+            "title": "Coal County",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/25/200"
         },
         {
             "index": 26,
-            "title": "Kabupaten Dairi",
+            "title": "Dairi County",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/26/200"
         },
         {
             "index": 27,
-            "title": "Kabupaten Deli Serdang",
+            "title": "Deli Serdang Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/27/200"
         },
         {
             "index": 28,
-            "title": "Kabupaten Karo",
+            "title": "Karo Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/28/200"
         },
         {
             "index": 29,
-            "title": "Kabupaten Humbang Hasundutan",
+            "title": "Humbang Hasundutan Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/29/200"
         },
         {
             "index": 30,
-            "title": "Kabupaten Labuhanbatu",
+            "title": "Labuhbatu Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/30/200"
         },
         {
             "index": 31,
-            "title": "Kabupaten Labuhanbatu Selatan",
+            "title": "South Labuhanbatu Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/31/200"
         },
         {
             "index": 32,
-            "title": "Kabupaten Labuhanbatu Utara",
+            "title": "North Labuhanbatu Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/32/200"
         },
         {
             "index": 33,
-            "title": "Kabupaten Langkat",
+            "title": "Langkat Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/33/200"
         },
         {
             "index": 34,
-            "title": "Kabupaten Mandailing Natal",
+            "title": "Mandailing Natal District",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/34/200"
         },
         {
             "index": 35,
-            "title": "Kabupaten Nias",
+            "title": "Nias Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/35/200"
         },
         {
             "index": 36,
-            "title": "Kabupaten Nias Barat",
+            "title": "West Nias Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/36/200"
         },
         {
             "index": 37,
-            "title": "Kabupaten Nias Selatan",
+            "title": "South Nias Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/37/200"
         },
         {
             "index": 38,
-            "title": "Kabupaten Nias Utara",
+            "title": "North Nias Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/38/200"
         },
         {
             "index": 39,
-            "title": "Kabupaten Padang Lawas",
+            "title": "District of Padang Lawas",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/39/200"
         },
         {
             "index": 40,
-            "title": "Kabupaten Padang Lawas Utara",
+            "title": "North Padang Lawas Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/40/200"
         },
         {
             "index": 41,
-            "title": "Kabupaten Pakpak Bharat",
+            "title": "Pakpak Bharat Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/41/200"
         },
         {
             "index": 42,
-            "title": "Kabupaten Samosir",
+            "title": "Samosir Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/42/200"
         },
         {
             "index": 43,
-            "title": "Kabupaten Serdang Bedagai",
+            "title": "Serdang Bedagai Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/43/200"
         },
         {
             "index": 44,
-            "title": "Kabupaten Simalungun",
+            "title": "Simalungun Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/44/200"
         },
         {
             "index": 45,
-            "title": "Kabupaten Tapanuli Selatan",
+            "title": "South Tapanuli Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/45/200"
         },
         {
             "index": 46,
-            "title": "Kabupaten Tapanuli Tengah",
+            "title": "Central Tapanuli Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/46/200"
         },
         {
             "index": 47,
-            "title": "Kabupaten Tapanuli Utara",
+            "title": "North Tapanuli Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/47/200"
         },
         {
             "index": 48,
-            "title": "Kabupaten Toba Samosir",
+            "title": "Toba Samosir Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/48/200"
         },
         {
             "index": 49,
-            "title": "Kota Binjai",
+            "title": "Binjai City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/49/200"
         },
         {
             "index": 50,
-            "title": "Kota Gunungsitoli",
+            "title": "Gunungsitoli City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/50/200"
         },
         {
             "index": 51,
-            "title": "Kota Medan",
+            "title": "Medan City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/51/200"
         },
         {
             "index": 52,
-            "title": "Kota Padang Sidempuan",
+            "title": "City of Padang Sidempuan",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/52/200"
         },
         {
             "index": 53,
-            "title": "Kota Pematangsiantar",
+            "title": "City Pematangsiantar",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/53/200"
         },
         {
             "index": 54,
-            "title": "Kota Sibolga",
+            "title": "Sibolga City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/54/200"
         },
         {
             "index": 55,
-            "title": "Kota Tanjungbalai",
+            "title": "Tanjungbalai City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/55/200"
         },
         {
             "index": 56,
-            "title": "Kota Tebing Tinggi",
+            "title": "City of High Cliffs",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/56/200"
         },
         {
             "index": 57,
-            "title": "Kabupaten Agam",
+            "title": "Agam Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/57/200"
         },
         {
             "index": 58,
-            "title": "Kabupaten Dharmasraya",
+            "title": "Dharmasraya Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/58/200"
         },
         {
             "index": 59,
-            "title": "Kabupaten Kepulauan Mentawai",
+            "title": "Mentawai Islands Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/59/200"
         },
         {
             "index": 60,
-            "title": "Kabupaten Lima Puluh Kota",
+            "title": "Fifty Cities County",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/60/200"
         },
         {
             "index": 61,
-            "title": "Kabupaten Padang Pariaman",
+            "title": "District of Padang Pariaman",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/61/200"
         },
         {
             "index": 62,
-            "title": "Kabupaten Pasaman",
+            "title": "Pasaman Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/62/200"
         },
         {
             "index": 63,
-            "title": "Kabupaten Pasaman Barat",
+            "title": "Pasaman Barat Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/63/200"
         },
         {
             "index": 64,
-            "title": "Kabupaten Pesisir Selatan",
+            "title": "South Coastal District",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/64/200"
         },
         {
             "index": 65,
-            "title": "Kabupaten Sijunjung",
+            "title": "Sijunjung Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/65/200"
         },
         {
             "index": 66,
-            "title": "Kabupaten Solok",
+            "title": "Solok Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/66/200"
         },
         {
             "index": 67,
-            "title": "Kabupaten Solok Selatan",
+            "title": "South Solok Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/67/200"
         },
         {
@@ -341,547 +341,547 @@
         },
         {
             "index": 69,
-            "title": "Kota Bukittinggi",
+            "title": "Bukittinggi City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/69/200"
         },
         {
             "index": 70,
-            "title": "Kota Padang",
+            "title": "City of Padang",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/70/200"
         },
         {
             "index": 71,
-            "title": "Kota Padangpanjang",
+            "title": "City of Padangpanjang",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/71/200"
         },
         {
             "index": 72,
-            "title": "Kota Pariaman",
+            "title": "City Pariaman",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/72/200"
         },
         {
             "index": 73,
-            "title": "Kota Payakumbuh",
+            "title": "Payakumbuh City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/73/200"
         },
         {
             "index": 74,
-            "title": "Kota Sawahlunto",
+            "title": "City of Sawahlunto",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/74/200"
         },
         {
             "index": 75,
-            "title": "Kota Solok",
+            "title": "City of Solok",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/75/200"
         },
         {
             "index": 76,
-            "title": "Kabupaten Bengkalis",
+            "title": "Bengkalis Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/76/200"
         },
         {
             "index": 77,
-            "title": "Kabupaten Indragiri Hilir",
+            "title": "Indragiri Hilir Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/77/200"
         },
         {
             "index": 78,
-            "title": "Kabupaten Indragiri Hulu",
+            "title": "Indragiri Hulu Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/78/200"
         },
         {
             "index": 79,
-            "title": "Kabupaten Kampar",
+            "title": "Kampar Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/79/200"
         },
         {
             "index": 80,
-            "title": "Kabupaten Kepulauan Meranti",
+            "title": "Meranti Islands Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/80/200"
         },
         {
             "index": 81,
-            "title": "Kabupaten Kuantan Singingi",
+            "title": "Kuantan Singingi Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/81/200"
         },
         {
             "index": 82,
-            "title": "Kabupaten Pelalawan",
+            "title": "Regency of Pelalawan",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/82/200"
         },
         {
             "index": 83,
-            "title": "Kabupaten Rokan Hilir",
+            "title": "Rokan Hilir Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/83/200"
         },
         {
             "index": 84,
-            "title": "Kabupaten Rokan Hulu",
+            "title": "Rokan Hulu Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/84/200"
         },
         {
             "index": 85,
-            "title": "Kabupaten Siak",
+            "title": "Siak Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/85/200"
         },
         {
             "index": 86,
-            "title": "Kota Dumai",
+            "title": "Dumai City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/86/200"
         },
         {
             "index": 87,
-            "title": "Kota Pekanbaru",
+            "title": "Pekanbaru City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/87/200"
         },
         {
             "index": 88,
-            "title": "Kabupaten Bintan",
+            "title": "Bintan Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/88/200"
         },
         {
             "index": 89,
-            "title": "Kabupaten Karimun",
+            "title": "Karimun Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/89/200"
         },
         {
             "index": 90,
-            "title": "Kabupaten Kepulauan Anambas",
+            "title": "Anambas Archipelago Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/90/200"
         },
         {
             "index": 91,
-            "title": "Kabupaten Lingga",
+            "title": "Lingga Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/91/200"
         },
         {
             "index": 92,
-            "title": "Kabupaten Natuna",
+            "title": "Natuna Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/92/200"
         },
         {
             "index": 93,
-            "title": "Kota Batam",
+            "title": "Batam City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/93/200"
         },
         {
             "index": 94,
-            "title": "Kota Tanjungpinang",
+            "title": "Tanjungpinang City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/94/200"
         },
         {
             "index": 95,
-            "title": "Kabupaten Batanghari",
+            "title": "Tanghari Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/95/200"
         },
         {
             "index": 96,
-            "title": "Kabupaten Bungo",
+            "title": "Bungo Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/96/200"
         },
         {
             "index": 97,
-            "title": "Kabupaten Kerinci",
+            "title": "Kerinci Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/97/200"
         },
         {
             "index": 98,
-            "title": "Kabupaten Merangin",
+            "title": "Merangin County",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/98/200"
         },
         {
             "index": 99,
-            "title": "Kabupaten Muaro Jambi",
+            "title": "Muaro Jambi Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/99/200"
         },
         {
             "index": 100,
-            "title": "Kabupaten Sarolangun",
+            "title": "Sarolangun Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/100/200"
         },
         {
             "index": 101,
-            "title": "Kabupaten Tanjung Jabung Barat",
+            "title": "West Tanjung Jabung Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/101/200"
         },
         {
             "index": 102,
-            "title": "Kabupaten Tanjung Jabung Timur",
+            "title": "East Tanjung Jabung Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/102/200"
         },
         {
             "index": 103,
-            "title": "Kabupaten Tebo",
+            "title": "Tebo Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/103/200"
         },
         {
             "index": 104,
-            "title": "Kota Jambi",
+            "title": "Jambi City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/104/200"
         },
         {
             "index": 105,
-            "title": "Kota Sungai Penuh",
+            "title": "Full River City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/105/200"
         },
         {
             "index": 106,
-            "title": "Kabupaten Banyuasin",
+            "title": "Banyuasin Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/106/200"
         },
         {
             "index": 107,
-            "title": "Kabupaten Empat Lawang",
+            "title": "Four Lawang Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/107/200"
         },
         {
             "index": 108,
-            "title": "Kabupaten Lahat",
+            "title": "Lahat Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/108/200"
         },
         {
             "index": 109,
-            "title": "Kabupaten Muara Enim",
+            "title": "Muara Enim Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/109/200"
         },
         {
             "index": 110,
-            "title": "Kabupaten Musi Banyuasin",
+            "title": "Musi Banyuasin Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/110/200"
         },
         {
             "index": 111,
-            "title": "Kabupaten Musi Rawas",
+            "title": "Musi Rawas Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/111/200"
         },
         {
             "index": 112,
-            "title": "Kabupaten Musi Rawas Utara",
+            "title": "Musi Rawas Utara Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/112/200"
         },
         {
             "index": 113,
-            "title": "Kabupaten Ogan Ilir",
+            "title": "Ogan Ilir Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/113/200"
         },
         {
             "index": 114,
-            "title": "Kabupaten Ogan Komering Ilir",
+            "title": "Ogan Komering Ilir Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/114/200"
         },
         {
             "index": 115,
-            "title": "Kabupaten Ogan Komering Ulu",
+            "title": "Ogan Komering Ulu Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/115/200"
         },
         {
             "index": 116,
-            "title": "Kabupaten Ogan Komering Ulu Selatan",
+            "title": "Ogan Komering Ulu Selatan Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/116/200"
         },
         {
             "index": 117,
-            "title": "Kabupaten Ogan Komering Ulu Timur",
+            "title": "Ogan Komering Ulu Timur Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/117/200"
         },
         {
             "index": 118,
-            "title": "Kabupaten Penukal Abab Lematang Ilir",
+            "title": "Penukal Abab Lematang Ilir Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/118/200"
         },
         {
             "index": 119,
-            "title": "Kota Lubuklinggau",
+            "title": "Lubuklinggau City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/119/200"
         },
         {
             "index": 120,
-            "title": "Kota Pagar Alam",
+            "title": "City of Fences of Nature",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/120/200"
         },
         {
             "index": 121,
-            "title": "Kota Palembang",
+            "title": "Palembang City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/121/200"
         },
         {
             "index": 122,
-            "title": "Kota Prabumulih",
+            "title": "City of Prabumulih",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/122/200"
         },
         {
             "index": 123,
-            "title": "Kabupaten Bengkulu Selatan",
+            "title": "South Bengkulu Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/123/200"
         },
         {
             "index": 124,
-            "title": "Kabupaten Bengkulu Tengah",
+            "title": "Central Bengkulu Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/124/200"
         },
         {
             "index": 125,
-            "title": "Kabupaten Bengkulu Utara",
+            "title": "North Bengkulu Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/125/200"
         },
         {
             "index": 126,
-            "title": "Kabupaten Kaur",
+            "title": "Kaur Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/126/200"
         },
         {
             "index": 127,
-            "title": "Kabupaten Kepahiang",
+            "title": "Kepahiang Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/127/200"
         },
         {
             "index": 128,
-            "title": "Kabupaten Lebong",
+            "title": "Lebong Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/128/200"
         },
         {
             "index": 129,
-            "title": "Kabupaten Mukomuko",
+            "title": "Mukomuko County",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/129/200"
         },
         {
             "index": 130,
-            "title": "Kabupaten Rejang Lebong",
+            "title": "Rejang Lebong Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/130/200"
         },
         {
             "index": 131,
-            "title": "Kabupaten Seluma",
+            "title": "Seluma District",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/131/200"
         },
         {
             "index": 132,
-            "title": "Kota Bengkulu",
+            "title": "Bengkulu City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/132/200"
         },
         {
             "index": 133,
-            "title": "Kabupaten Bangka",
+            "title": "Bangka Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/133/200"
         },
         {
             "index": 134,
-            "title": "Kabupaten Bangka Barat",
+            "title": "West Bangka Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/134/200"
         },
         {
             "index": 135,
-            "title": "Kabupaten Bangka Selatan",
+            "title": "South Bangka Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/135/200"
         },
         {
             "index": 136,
-            "title": "Kabupaten Bangka Tengah",
+            "title": "Central Bangka Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/136/200"
         },
         {
             "index": 137,
-            "title": "Kabupaten Belitung",
+            "title": "Belitung Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/137/200"
         },
         {
             "index": 138,
-            "title": "Kabupaten Belitung Timur",
+            "title": "East Belitung Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/138/200"
         },
         {
             "index": 139,
-            "title": "Kota Pangkal Pinang",
+            "title": "Pangkal Pinang City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/139/200"
         },
         {
             "index": 140,
-            "title": "Kabupaten Lampung Barat",
+            "title": "West Lampung Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/140/200"
         },
         {
             "index": 141,
-            "title": "Kabupaten Lampung Selatan",
+            "title": "South Lampung Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/141/200"
         },
         {
             "index": 142,
-            "title": "Kabupaten Lampung Tengah",
+            "title": "Central Lampung Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/142/200"
         },
         {
             "index": 143,
-            "title": "Kabupaten Lampung Timur",
+            "title": "East Lampung Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/143/200"
         },
         {
             "index": 144,
-            "title": "Kabupaten Lampung Utara",
+            "title": "North Lampung Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/144/200"
         },
         {
             "index": 145,
-            "title": "Kabupaten Mesuji",
+            "title": "Mesuji Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/145/200"
         },
         {
             "index": 146,
-            "title": "Kabupaten Pesawaran",
+            "title": "Pesawaran Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/146/200"
         },
         {
             "index": 147,
-            "title": "Kabupaten Pesisir Barat",
+            "title": "West Coast District",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/147/200"
         },
         {
             "index": 148,
-            "title": "Kabupaten Pringsewu",
+            "title": "Pringsewu Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/148/200"
         },
         {
             "index": 149,
-            "title": "Kabupaten Tanggamus",
+            "title": "Tatangmus Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/149/200"
         },
         {
             "index": 150,
-            "title": "Kabupaten Tulang Bawang",
+            "title": "Bone Onion District",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/150/200"
         },
         {
             "index": 151,
-            "title": "Kabupaten Tulang Bawang Barat",
+            "title": "West Tulang Bawang Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/151/200"
         },
         {
             "index": 152,
-            "title": "Kabupaten Way Kanan",
+            "title": "Way Kanan District",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/152/200"
         },
         {
             "index": 153,
-            "title": "Kota Bandar Lampung",
+            "title": "City of Bandar Lampung",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/153/200"
         },
         {
             "index": 154,
-            "title": "Kota Metro",
+            "title": "Metro City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/154/200"
         },
         {
             "index": 155,
-            "title": "Kabupaten Lebak",
+            "title": "Lebak Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/155/200"
         },
         {
             "index": 156,
-            "title": "Kabupaten Pandeglang",
+            "title": "Pandeglang Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/156/200"
         },
         {
             "index": 157,
-            "title": "Kabupaten Serang",
+            "title": "District Serang",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/157/200"
         },
         {
             "index": 158,
-            "title": "Kabupaten Tangerang",
+            "title": "Tangerang Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/158/200"
         },
         {
             "index": 159,
-            "title": "Kota Cilegon",
+            "title": "Cilegon City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/159/200"
         },
         {
             "index": 160,
-            "title": "Kota Serang",
+            "title": "Attack City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/160/200"
         },
         {
             "index": 161,
-            "title": "Kota Tangerang",
+            "title": "Tangerang City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/161/200"
         },
         {
             "index": 162,
-            "title": "Kota Tangerang Selatan",
+            "title": "South Tangerang City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/162/200"
         },
         {
             "index": 163,
-            "title": "Kabupaten Administrasi Kepulauan Seribu",
+            "title": "Thousand Islands Administrative District",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/163/200"
         },
         {
             "index": 164,
-            "title": "Kota Administrasi Jakarta Barat",
+            "title": "West Jakarta Administrative City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/164/200"
         },
         {
             "index": 165,
-            "title": "Kota Administrasi Jakarta Pusat",
+            "title": "Central Jakarta Administrative City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/165/200"
         },
         {
             "index": 166,
-            "title": "Kota Administrasi Jakarta Selatan",
+            "title": "South Jakarta Administrative City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/166/200"
         },
         {
             "index": 167,
-            "title": "Kota Administrasi Jakarta Timur",
+            "title": "East Jakarta Administrative City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/167/200"
         },
         {
             "index": 168,
-            "title": "Kota Administrasi Jakarta Utara",
+            "title": "North Jakarta Administrative City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/168/200"
         },
         {
             "index": 169,
-            "title": "Kabupaten Bandung",
+            "title": "Bandung Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/169/200"
         },
         {
             "index": 170,
-            "title": "Kabupaten Bandung Barat",
+            "title": "West Bandung Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/170/200"
         },
         {
             "index": 171,
-            "title": "Kabupaten Bekasi",
+            "title": "Bekasi Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/171/200"
         },
         {
             "index": 172,
-            "title": "Kabupaten Bogor",
+            "title": "Bogor Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/172/200"
         },
         {
             "index": 173,
-            "title": "Kabupaten Ciamis",
+            "title": "Ciamis Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/173/200"
         },
         {
             "index": 174,
-            "title": "Kabupaten Cianjur",
+            "title": "Cianjur Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/174/200"
         },
         {
             "index": 175,
-            "title": "Kabupaten Cirebon",
+            "title": "Cirebon Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/175/200"
         },
         {
             "index": 176,
-            "title": "Kabupaten Garut",
+            "title": "Garut Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/176/200"
         },
         {
             "index": 177,
-            "title": "Kabupaten Indramayu",
+            "title": "Indramayu Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/177/200"
         },
         {
@@ -891,702 +891,702 @@
         },
         {
             "index": 179,
-            "title": "Kabupaten Kuningan",
+            "title": "Brass District",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/179/200"
         },
         {
             "index": 180,
-            "title": "Kabupaten Majalengka",
+            "title": "Majalengka Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/180/200"
         },
         {
             "index": 181,
-            "title": "Kabupaten Pangandaran",
+            "title": "Pangandaran Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/181/200"
         },
         {
             "index": 182,
-            "title": "Kabupaten Purwakarta",
+            "title": "Purwakarta Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/182/200"
         },
         {
             "index": 183,
-            "title": "Kabupaten Subang",
+            "title": "Subang Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/183/200"
         },
         {
             "index": 184,
-            "title": "Kabupaten Sukabumi",
+            "title": "Sukabumi Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/184/200"
         },
         {
             "index": 185,
-            "title": "Kabupaten Sumedang",
+            "title": "Sumedang Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/185/200"
         },
         {
             "index": 186,
-            "title": "Kabupaten Tasikmalaya",
+            "title": "Tasikmalaya Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/186/200"
         },
         {
             "index": 187,
-            "title": "Kota Bandung",
+            "title": "Bandung City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/187/200"
         },
         {
             "index": 188,
-            "title": "Kota Banjar",
+            "title": "Banjar City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/188/200"
         },
         {
             "index": 189,
-            "title": "Kota Bekasi",
+            "title": "Bekasi City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/189/200"
         },
         {
             "index": 190,
-            "title": "Kota Bogor",
+            "title": "Bogor City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/190/200"
         },
         {
             "index": 191,
-            "title": "Kota Cimahi",
+            "title": "Cimahi City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/191/200"
         },
         {
             "index": 192,
-            "title": "Kota Cirebon",
+            "title": "Cirebon City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/192/200"
         },
         {
             "index": 193,
-            "title": "Kota Depok",
+            "title": "Depok City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/193/200"
         },
         {
             "index": 194,
-            "title": "Kota Sukabumi",
+            "title": "Sukabumi City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/194/200"
         },
         {
             "index": 195,
-            "title": "Kota Tasikmalaya",
+            "title": "Tasikmalaya City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/195/200"
         },
         {
             "index": 196,
-            "title": "Kabupaten Banjarnegara",
+            "title": "Banjarnegara Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/196/200"
         },
         {
             "index": 197,
-            "title": "Kabupaten Banyumas",
+            "title": "Banyumas Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/197/200"
         },
         {
             "index": 198,
-            "title": "Kabupaten Batang",
+            "title": "Stem District",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/198/200"
         },
         {
             "index": 199,
-            "title": "Kabupaten Blora",
+            "title": "Blora Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/199/200"
         },
         {
             "index": 200,
-            "title": "Kabupaten Boyolali",
+            "title": "Boyolali Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/200/200"
         },
         {
             "index": 201,
-            "title": "Kabupaten Brebes",
+            "title": "Brebes Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/201/200"
         },
         {
             "index": 202,
-            "title": "Kabupaten Cilacap",
+            "title": "Cilacap Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/202/200"
         },
         {
             "index": 203,
-            "title": "Kabupaten Demak",
+            "title": "Demak Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/203/200"
         },
         {
             "index": 204,
-            "title": "Kabupaten Grobogan",
+            "title": "Grobogan Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/204/200"
         },
         {
             "index": 205,
-            "title": "Kabupaten Jepara",
+            "title": "Jepara Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/205/200"
         },
         {
             "index": 206,
-            "title": "Kabupaten Karanganyar",
+            "title": "Karanganyar Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/206/200"
         },
         {
             "index": 207,
-            "title": "Kabupaten Kebumen",
+            "title": "Kebumen Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/207/200"
         },
         {
             "index": 208,
-            "title": "Kabupaten Kendal",
+            "title": "Kendal Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/208/200"
         },
         {
             "index": 209,
-            "title": "Kabupaten Klaten",
+            "title": "Klaten Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/209/200"
         },
         {
             "index": 210,
-            "title": "Kabupaten Kudus",
+            "title": "Holy District",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/210/200"
         },
         {
             "index": 211,
-            "title": "Kabupaten Magelang",
+            "title": "Magelang Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/211/200"
         },
         {
             "index": 212,
-            "title": "Kabupaten Pati",
+            "title": "Pati Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/212/200"
         },
         {
             "index": 213,
-            "title": "Kabupaten Pekalongan",
+            "title": "Pekalongan Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/213/200"
         },
         {
             "index": 214,
-            "title": "Kabupaten Pemalang",
+            "title": "Pemalang Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/214/200"
         },
         {
             "index": 215,
-            "title": "Kabupaten Purbalingga",
+            "title": "Purbalingga Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/215/200"
         },
         {
             "index": 216,
-            "title": "Kabupaten Purworejo",
+            "title": "Purworejo Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/216/200"
         },
         {
             "index": 217,
-            "title": "Kabupaten Rembang",
+            "title": "Rembang Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/217/200"
         },
         {
             "index": 218,
-            "title": "Kabupaten Semarang",
+            "title": "Semarang Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/218/200"
         },
         {
             "index": 219,
-            "title": "Kabupaten Sragen",
+            "title": "Sragen Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/219/200"
         },
         {
             "index": 220,
-            "title": "Kabupaten Sukoharjo",
+            "title": "Sukoharjo Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/220/200"
         },
         {
             "index": 221,
-            "title": "Kabupaten Tegal",
+            "title": "Tegal Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/221/200"
         },
         {
             "index": 222,
-            "title": "Kabupaten Temanggung",
+            "title": "Temenggung Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/222/200"
         },
         {
             "index": 223,
-            "title": "Kabupaten Wonogiri",
+            "title": "Wonogiri Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/223/200"
         },
         {
             "index": 224,
-            "title": "Kabupaten Wonosobo",
+            "title": "Wonosobo Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/224/200"
         },
         {
             "index": 225,
-            "title": "Kota Magelang",
+            "title": "Magelang City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/225/200"
         },
         {
             "index": 226,
-            "title": "Kota Pekalongan",
+            "title": "Pekalongan City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/226/200"
         },
         {
             "index": 227,
-            "title": "Kota Salatiga",
+            "title": "Salatiga City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/227/200"
         },
         {
             "index": 228,
-            "title": "Kota Semarang",
+            "title": "Semarang City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/228/200"
         },
         {
             "index": 229,
-            "title": "Kota Surakarta",
+            "title": "Surakarta City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/229/200"
         },
         {
             "index": 230,
-            "title": "Kota Tegal",
+            "title": "Tegal City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/230/200"
         },
         {
             "index": 231,
-            "title": "Kabupaten Bantul",
+            "title": "Bantul Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/231/200"
         },
         {
             "index": 232,
-            "title": "Kabupaten Gunung Kidul",
+            "title": "Gunung Kidul Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/232/200"
         },
         {
             "index": 233,
-            "title": "Kabupaten Kulon Progo",
+            "title": "Kulon Progo Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/233/200"
         },
         {
             "index": 234,
-            "title": "Kabupaten Sleman",
+            "title": "Sleman Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/234/200"
         },
         {
             "index": 235,
-            "title": "Kota Yogyakarta",
+            "title": "Yogyakarta City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/235/200"
         },
         {
             "index": 236,
-            "title": "Kabupaten Bangkalan",
+            "title": "Bangkalan Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/236/200"
         },
         {
             "index": 237,
-            "title": "Kabupaten Banyuwangi",
+            "title": "Banyuwangi Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/237/200"
         },
         {
             "index": 238,
-            "title": "Kabupaten Blitar",
+            "title": "Blitar Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/238/200"
         },
         {
             "index": 239,
-            "title": "Kabupaten Bojonegoro",
+            "title": "Bojonegoro Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/239/200"
         },
         {
             "index": 240,
-            "title": "Kabupaten Bondowoso",
+            "title": "Bondowoso Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/240/200"
         },
         {
             "index": 241,
-            "title": "Kabupaten Gresik",
+            "title": "Gresik Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/241/200"
         },
         {
             "index": 242,
-            "title": "Kabupaten Jember",
+            "title": "Jember Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/242/200"
         },
         {
             "index": 243,
-            "title": "Kabupaten Jombang",
+            "title": "Jombang Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/243/200"
         },
         {
             "index": 244,
-            "title": "Kabupaten Kediri",
+            "title": "Kediri Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/244/200"
         },
         {
             "index": 245,
-            "title": "Kabupaten Lamongan",
+            "title": "Lamongan Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/245/200"
         },
         {
             "index": 246,
-            "title": "Kabupaten Lumajang",
+            "title": "Lumajang Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/246/200"
         },
         {
             "index": 247,
-            "title": "Kabupaten Madiun",
+            "title": "Madiun Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/247/200"
         },
         {
             "index": 248,
-            "title": "Kabupaten Magetan",
+            "title": "Magetan Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/248/200"
         },
         {
             "index": 249,
-            "title": "Kabupaten Malang",
+            "title": "Malang Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/249/200"
         },
         {
             "index": 250,
-            "title": "Kabupaten Mojokerto",
+            "title": "Mojokerto Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/250/200"
         },
         {
             "index": 251,
-            "title": "Kabupaten Nganjuk",
+            "title": "Nganjuk Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/251/200"
         },
         {
             "index": 252,
-            "title": "Kabupaten Ngawi",
+            "title": "Ngawi Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/252/200"
         },
         {
             "index": 253,
-            "title": "Kabupaten Pacitan",
+            "title": "Pacitan Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/253/200"
         },
         {
             "index": 254,
-            "title": "Kabupaten Pamekasan",
+            "title": "Pamekasan Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/254/200"
         },
         {
             "index": 255,
-            "title": "Kabupaten Pasuruan",
+            "title": "Pasuruan Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/255/200"
         },
         {
             "index": 256,
-            "title": "Kabupaten Ponorogo",
+            "title": "Ponorogo Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/256/200"
         },
         {
             "index": 257,
-            "title": "Kabupaten Probolinggo",
+            "title": "Probolinggo Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/257/200"
         },
         {
             "index": 258,
-            "title": "Kabupaten Sampang",
+            "title": "Sampang Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/258/200"
         },
         {
             "index": 259,
-            "title": "Kabupaten Sidoarjo",
+            "title": "Sidoarjo Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/259/200"
         },
         {
             "index": 260,
-            "title": "Kabupaten Situbondo",
+            "title": "Situbondo Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/260/200"
         },
         {
             "index": 261,
-            "title": "Kabupaten Sumenep",
+            "title": "Sumenep Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/261/200"
         },
         {
             "index": 262,
-            "title": "Kabupaten Trenggalek",
+            "title": "Trenggalek Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/262/200"
         },
         {
             "index": 263,
-            "title": "Kabupaten Tuban",
+            "title": "Tuban Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/263/200"
         },
         {
             "index": 264,
-            "title": "Kabupaten Tulungagung",
+            "title": "Tulungagung Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/264/200"
         },
         {
             "index": 265,
-            "title": "Kota Batu",
+            "title": "Stone Town",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/265/200"
         },
         {
             "index": 266,
-            "title": "Kota Blitar",
+            "title": "Blitar City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/266/200"
         },
         {
             "index": 267,
-            "title": "Kota Kediri",
+            "title": "Kediri City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/267/200"
         },
         {
             "index": 268,
-            "title": "Kota Madiun",
+            "title": "Madiun City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/268/200"
         },
         {
             "index": 269,
-            "title": "Kota Malang",
+            "title": "Malang City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/269/200"
         },
         {
             "index": 270,
-            "title": "Kota Mojokerto",
+            "title": "Mojokerto City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/270/200"
         },
         {
             "index": 271,
-            "title": "Kota Pasuruan",
+            "title": "Pasuruan City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/271/200"
         },
         {
             "index": 272,
-            "title": "Kota Probolinggo",
+            "title": "Probolinggo City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/272/200"
         },
         {
             "index": 273,
-            "title": "Kota Surabaya",
+            "title": "Surabaya City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/273/200"
         },
         {
             "index": 274,
-            "title": "Kabupaten Badung",
+            "title": "Badung Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/274/200"
         },
         {
             "index": 275,
-            "title": "Kabupaten Bangli",
+            "title": "Bangli Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/275/200"
         },
         {
             "index": 276,
-            "title": "Kabupaten Buleleng",
+            "title": "Buleleng Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/276/200"
         },
         {
             "index": 277,
-            "title": "Kabupaten Gianyar",
+            "title": "Gianyar Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/277/200"
         },
         {
             "index": 278,
-            "title": "Kabupaten Jembrana",
+            "title": "Jembrana Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/278/200"
         },
         {
             "index": 279,
-            "title": "Kabupaten Karangasem",
+            "title": "Karangasem Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/279/200"
         },
         {
             "index": 280,
-            "title": "Kabupaten Klungkung",
+            "title": "Klungkung Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/280/200"
         },
         {
             "index": 281,
-            "title": "Kabupaten Tabanan",
+            "title": "Tabanan Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/281/200"
         },
         {
             "index": 282,
-            "title": "Kota Denpasar",
+            "title": "Denpasar City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/282/200"
         },
         {
             "index": 283,
-            "title": "Kabupaten Bima",
+            "title": "Bima Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/283/200"
         },
         {
             "index": 284,
-            "title": "Kabupaten Dompu",
+            "title": "Dompu Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/284/200"
         },
         {
             "index": 285,
-            "title": "Kabupaten Lombok Barat",
+            "title": "West Lombok Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/285/200"
         },
         {
             "index": 286,
-            "title": "Kabupaten Lombok Tengah",
+            "title": "Central Lombok Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/286/200"
         },
         {
             "index": 287,
-            "title": "Kabupaten Lombok Timur",
+            "title": "East Lombok Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/287/200"
         },
         {
             "index": 288,
-            "title": "Kabupaten Lombok Utara",
+            "title": "North Lombok Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/288/200"
         },
         {
             "index": 289,
-            "title": "Kabupaten Sumbawa",
+            "title": "Sumbawa Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/289/200"
         },
         {
             "index": 290,
-            "title": "Kabupaten Sumbawa Barat",
+            "title": "West Sumbawa Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/290/200"
         },
         {
             "index": 291,
-            "title": "Kota Bima",
+            "title": "Bima City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/291/200"
         },
         {
             "index": 292,
-            "title": "Kota Mataram",
+            "title": "Mataram City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/292/200"
         },
         {
             "index": 293,
-            "title": "Kabupaten Alor",
+            "title": "Alor Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/293/200"
         },
         {
             "index": 294,
-            "title": "Kabupaten Belu",
+            "title": "Belu Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/294/200"
         },
         {
             "index": 295,
-            "title": "Kabupaten Ende",
+            "title": "Ende Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/295/200"
         },
         {
             "index": 296,
-            "title": "Kabupaten Flores Timur",
+            "title": "East Flores Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/296/200"
         },
         {
             "index": 297,
-            "title": "Kabupaten Kupang",
+            "title": "Kupang Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/297/200"
         },
         {
             "index": 298,
-            "title": "Kabupaten Lembata",
+            "title": "Lembata Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/298/200"
         },
         {
             "index": 299,
-            "title": "Kabupaten Malaka",
+            "title": "District of Malacca",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/299/200"
         },
         {
             "index": 300,
-            "title": "Kabupaten Manggarai",
+            "title": "Manggarai Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/300/200"
         },
         {
             "index": 301,
-            "title": "Kabupaten Manggarai Barat",
+            "title": "West Manggarai Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/301/200"
         },
         {
             "index": 302,
-            "title": "Kabupaten Manggarai Timur",
+            "title": "East Manggarai Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/302/200"
         },
         {
             "index": 303,
-            "title": "Kabupaten Ngada",
+            "title": "Ngada Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/303/200"
         },
         {
             "index": 304,
-            "title": "Kabupaten Nagekeo",
+            "title": "Nagekeo County",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/304/200"
         },
         {
             "index": 305,
-            "title": "Kabupaten Rote Ndao",
+            "title": "Rote Ndao County",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/305/200"
         },
         {
             "index": 306,
-            "title": "Kabupaten Sabu Raijua",
+            "title": "Sabu Raijua Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/306/200"
         },
         {
             "index": 307,
-            "title": "Kabupaten Sikka",
+            "title": "Sikka County",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/307/200"
         },
         {
             "index": 308,
-            "title": "Kabupaten Sumba Barat",
+            "title": "West Sumba Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/308/200"
         },
         {
             "index": 309,
-            "title": "Kabupaten Sumba Barat Daya",
+            "title": "Southwest Sumba Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/309/200"
         },
         {
             "index": 310,
-            "title": "Kabupaten Sumba Tengah",
+            "title": "Central Sumba Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/310/200"
         },
         {
             "index": 311,
-            "title": "Kabupaten Sumba Timur",
+            "title": "East Sumba Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/311/200"
         },
         {
             "index": 312,
-            "title": "Kabupaten Timor Tengah Selatan",
+            "title": "South Central Timor Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/312/200"
         },
         {
             "index": 313,
-            "title": "Kabupaten Timor Tengah Utara",
+            "title": "North Central Timor Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/313/200"
         },
         {
             "index": 314,
-            "title": "Kota Kupang",
+            "title": "Kupang City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/314/200"
         },
         {
             "index": 315,
-            "title": "Kabupaten Bengkayang",
+            "title": "Bengkayang Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/315/200"
         },
         {
             "index": 316,
-            "title": "Kabupaten Kapuas Hulu",
+            "title": "Kapuas Hulu Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/316/200"
         },
         {
             "index": 317,
-            "title": "Kabupaten Kayong Utara",
+            "title": "North Kayong Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/317/200"
         },
         {
             "index": 318,
-            "title": "Kabupaten Ketapang",
+            "title": "Ketapang Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/318/200"
         },
         {
@@ -1596,27 +1596,27 @@
         },
         {
             "index": 320,
-            "title": "Kabupaten Landak",
+            "title": "Hedgehog County",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/320/200"
         },
         {
             "index": 321,
-            "title": "Kabupaten Melawi",
+            "title": "Melawi Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/321/200"
         },
         {
             "index": 322,
-            "title": "Kabupaten Mempawah",
+            "title": "Mempawah Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/322/200"
         },
         {
             "index": 323,
-            "title": "Kabupaten Sambas",
+            "title": "Sambas Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/323/200"
         },
         {
             "index": 324,
-            "title": "Kabupaten Sanggau",
+            "title": "Snggau Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/324/200"
         },
         {
@@ -1626,102 +1626,102 @@
         },
         {
             "index": 326,
-            "title": "Kabupaten Sintang",
+            "title": "Sintang Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/326/200"
         },
         {
             "index": 327,
-            "title": "Kota Pontianak",
+            "title": "City of Pontianak",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/327/200"
         },
         {
             "index": 328,
-            "title": "Kota Singkawang",
+            "title": "Singkawang City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/328/200"
         },
         {
             "index": 329,
-            "title": "Kabupaten Barito Selatan",
+            "title": "South Barito Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/329/200"
         },
         {
             "index": 330,
-            "title": "Kabupaten Barito Timur",
+            "title": "East Barito Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/330/200"
         },
         {
             "index": 331,
-            "title": "Kabupaten Barito Utara",
+            "title": "North Barito Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/331/200"
         },
         {
             "index": 332,
-            "title": "Kabupaten Gunung Mas",
+            "title": "Gunung Mas Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/332/200"
         },
         {
             "index": 333,
-            "title": "Kabupaten Kapuas",
+            "title": "Kapuas Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/333/200"
         },
         {
             "index": 334,
-            "title": "Kabupaten Katingan",
+            "title": "Katingan Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/334/200"
         },
         {
             "index": 335,
-            "title": "Kabupaten Kotawaringin Barat",
+            "title": "West Kotawaringin Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/335/200"
         },
         {
             "index": 336,
-            "title": "Kabupaten Kotawaringin Timur",
+            "title": "East Kotawaringin Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/336/200"
         },
         {
             "index": 337,
-            "title": "Kabupaten Lamandau",
+            "title": "Lamandau Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/337/200"
         },
         {
             "index": 338,
-            "title": "Kabupaten Murung Raya",
+            "title": "Murung Raya Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/338/200"
         },
         {
             "index": 339,
-            "title": "Kabupaten Pulang Pisau",
+            "title": "Homecoming Knives",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/339/200"
         },
         {
             "index": 340,
-            "title": "Kabupaten Sukamara",
+            "title": "Sumara Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/340/200"
         },
         {
             "index": 341,
-            "title": "Kabupaten Seruyan",
+            "title": "Seruyan Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/341/200"
         },
         {
             "index": 342,
-            "title": "Kota Palangka Raya",
+            "title": "Palangka Raya City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/342/200"
         },
         {
             "index": 343,
-            "title": "Kabupaten Balangan",
+            "title": "Balangan Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/343/200"
         },
         {
             "index": 344,
-            "title": "Kabupaten Banjar",
+            "title": "Banjar Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/344/200"
         },
         {
             "index": 345,
-            "title": "Kabupaten Barito Kuala",
+            "title": "Barito Kuala Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/345/200"
         },
         {
@@ -1731,22 +1731,22 @@
         },
         {
             "index": 347,
-            "title": "Kabupaten Hulu Sungai Tengah",
+            "title": "Hulu Sungai Tengah Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/347/200"
         },
         {
             "index": 348,
-            "title": "Kabupaten Hulu Sungai Utara",
+            "title": "District Hulu Sungai Utara",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/348/200"
         },
         {
             "index": 349,
-            "title": "Kabupaten Kotabaru",
+            "title": "Kotabaru Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/349/200"
         },
         {
             "index": 350,
-            "title": "Kabupaten Tabalong",
+            "title": "Tabalong Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/350/200"
         },
         {
@@ -1756,637 +1756,637 @@
         },
         {
             "index": 352,
-            "title": "Kabupaten Tanah Laut",
+            "title": "Tanah Laut Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/352/200"
         },
         {
             "index": 353,
-            "title": "Kabupaten Tapin",
+            "title": "Tapin County",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/353/200"
         },
         {
             "index": 354,
-            "title": "Kota Banjarbaru",
+            "title": "Banjarbaru City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/354/200"
         },
         {
             "index": 355,
-            "title": "Kota Banjarmasin",
+            "title": "Banjarmasin City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/355/200"
         },
         {
             "index": 356,
-            "title": "Kabupaten Berau",
+            "title": "Berau Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/356/200"
         },
         {
             "index": 357,
-            "title": "Kabupaten Kutai Barat",
+            "title": "West Kutai Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/357/200"
         },
         {
             "index": 358,
-            "title": "Kabupaten Kutai Kartanegara",
+            "title": "Kutai Kartanegara Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/358/200"
         },
         {
             "index": 359,
-            "title": "Kabupaten Kutai Timur",
+            "title": "East Kutai Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/359/200"
         },
         {
             "index": 360,
-            "title": "Kabupaten Mahakam Ulu",
+            "title": "Mahakam Ulu Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/360/200"
         },
         {
             "index": 361,
-            "title": "Kabupaten Paser",
+            "title": "Paser Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/361/200"
         },
         {
             "index": 362,
-            "title": "Kabupaten Penajam Paser Utara",
+            "title": "North Penajam Paser Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/362/200"
         },
         {
             "index": 363,
-            "title": "Kota Balikpapan",
+            "title": "Balikpapan City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/363/200"
         },
         {
             "index": 364,
-            "title": "Kota Bontang",
+            "title": "Bontang City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/364/200"
         },
         {
             "index": 365,
-            "title": "Kota Samarinda",
+            "title": "City of Samarinda",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/365/200"
         },
         {
             "index": 366,
-            "title": "Kabupaten Bulungan",
+            "title": "Bulungan Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/366/200"
         },
         {
             "index": 367,
-            "title": "Kabupaten Malinau",
+            "title": "Malinau Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/367/200"
         },
         {
             "index": 368,
-            "title": "Kabupaten Nunukan",
+            "title": "Nunukan Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/368/200"
         },
         {
             "index": 369,
-            "title": "Kabupaten Tana Tidung",
+            "title": "Tana Tidung Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/369/200"
         },
         {
             "index": 370,
-            "title": "Kota Tarakan",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/370/200"
+            "title": "Tarakan City",
+            "url": "https://feriirawan-api.herokuapp.com/list/sy mbols/regency/370/200"
         },
         {
             "index": 371,
-            "title": "Kabupaten Majene",
+            "title": "Majene County",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/371/200"
         },
         {
             "index": 372,
-            "title": "Kabupaten Mamasa",
+            "title": "Mamasa Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/372/200"
         },
         {
             "index": 373,
-            "title": "Kabupaten Mamuju",
+            "title": "Mamuju Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/373/200"
         },
         {
             "index": 374,
-            "title": "Kabupaten Mamuju Tengah",
+            "title": "Central Mamuju Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/374/200"
         },
         {
             "index": 375,
-            "title": "Kabupaten Pasangkayu",
+            "title": "Pasangkayu Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/375/200"
         },
         {
             "index": 376,
-            "title": "Kabupaten Polewali Mandar",
+            "title": "Polewali Mandar Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/376/200"
         },
         {
             "index": 377,
-            "title": "Kabupaten Bantaeng",
+            "title": "Bantaeng Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/377/200"
         },
         {
             "index": 378,
-            "title": "Kabupaten Barru",
+            "title": "Barru County",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/378/200"
         },
         {
             "index": 379,
-            "title": "Kabupaten Bone",
+            "title": "Bone County",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/379/200"
         },
         {
             "index": 380,
-            "title": "Kabupaten Bulukumba",
+            "title": "Bulkumba Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/380/200"
         },
         {
             "index": 381,
-            "title": "Kabupaten Enrekang",
+            "title": "Enrekang Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/381/200"
         },
         {
             "index": 382,
-            "title": "Kabupaten Gowa",
+            "title": "Gowa Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/382/200"
         },
         {
             "index": 383,
-            "title": "Kabupaten Jeneponto",
+            "title": "Jeneponto Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/383/200"
         },
         {
             "index": 384,
-            "title": "Kabupaten Kepulauan Selayar",
+            "title": "Selayar Islands Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/384/200"
         },
         {
             "index": 385,
-            "title": "Kabupaten Luwu",
+            "title": "Luwu Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/385/200"
         },
         {
             "index": 386,
-            "title": "Kabupaten Luwu Timur",
+            "title": "East Luwu Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/386/200"
         },
         {
             "index": 387,
-            "title": "Kabupaten Luwu Utara",
+            "title": "North Luwu Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/387/200"
         },
         {
             "index": 388,
-            "title": "Kabupaten Maros",
+            "title": "Maros Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/388/200"
         },
         {
             "index": 389,
-            "title": "Kabupaten Pangkajene dan Kepulauan",
+            "title": "Pangkajene Regency and Islands",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/389/200"
         },
         {
             "index": 390,
-            "title": "Kabupaten Pinrang",
+            "title": "Pinrang Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/390/200"
         },
         {
             "index": 391,
-            "title": "Kabupaten Sidenreng Rappang (Sidrap)",
+            "title": "Sidenreng Rappang (Sidrap) Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/391/200"
         },
         {
             "index": 392,
-            "title": "Kabupaten Sinjai",
+            "title": "Sinjai Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/392/200"
         },
         {
             "index": 393,
-            "title": "Kabupaten Soppeng",
+            "title": "Soppeng Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/393/200"
         },
         {
             "index": 394,
-            "title": "Kabupaten Takalar",
+            "title": "Takalar Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/394/200"
         },
         {
             "index": 395,
-            "title": "Kabupaten Tana Toraja",
+            "title": "Tana Toraja Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/395/200"
         },
         {
             "index": 396,
-            "title": "Kabupaten Toraja Utara",
+            "title": "North Toraja Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/396/200"
         },
         {
             "index": 397,
-            "title": "Kabupaten Wajo",
+            "title": "Wajo Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/397/200"
         },
         {
             "index": 398,
-            "title": "Kota Makassar",
+            "title": "Makassar City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/398/200"
         },
         {
             "index": 399,
-            "title": "Kota Palopo",
+            "title": "Palopo City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/399/200"
         },
         {
             "index": 400,
-            "title": "Kota Parepare",
+            "title": "Parepare City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/400/200"
         },
         {
             "index": 401,
-            "title": "Kabupaten Bombana",
+            "title": "Bombana Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/401/200"
         },
         {
             "index": 402,
-            "title": "Kabupaten Buton",
+            "title": "Buton Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/402/200"
         },
         {
             "index": 403,
-            "title": "Kabupaten Buton Selatan",
+            "title": "South Buton Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/403/200"
         },
         {
             "index": 404,
-            "title": "Kabupaten Buton Tengah",
+            "title": "Central Buton Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/404/200"
         },
         {
             "index": 405,
-            "title": "Kabupaten Buton Utara",
+            "title": "North Buton Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/405/200"
         },
         {
             "index": 406,
-            "title": "Kabupaten Kolaka",
+            "title": "Kolaka Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/406/200"
         },
         {
             "index": 407,
-            "title": "Kabupaten Kolaka Timur",
+            "title": "East Kolaka Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/407/200"
         },
         {
             "index": 408,
-            "title": "Kabupaten Kolaka Utara",
+            "title": "North Kolaka Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/408/200"
         },
         {
             "index": 409,
-            "title": "Kabupaten Konawe",
+            "title": "Konawe Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/409/200"
         },
         {
             "index": 410,
-            "title": "Kabupaten Konawe Kepulauan",
+            "title": "Kabupaten Konawe Islands",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/410/200"
         },
         {
             "index": 411,
-            "title": "Kabupaten Konawe Selatan",
+            "title": "South Konawe Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/411/200"
         },
         {
             "index": 412,
-            "title": "Kabupaten Konawe Utara",
+            "title": "North Konawe Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/412/200"
         },
         {
             "index": 413,
-            "title": "Kabupaten Muna",
+            "title": "Muna County",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/413/200"
         },
         {
             "index": 414,
-            "title": "Kabupaten Muna Barat",
+            "title": "West Muna Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/414/200"
         },
         {
             "index": 415,
-            "title": "Kabupaten Wakatobi",
+            "title": "Wakatobi Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/415/200"
         },
         {
             "index": 416,
-            "title": "Kota Baubau",
+            "title": "Babaubau City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/416/200"
         },
         {
             "index": 417,
-            "title": "Kota Kendari",
+            "title": "Kendari City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/417/200"
         },
         {
             "index": 418,
-            "title": "Kabupaten Banggai",
+            "title": "Banggai Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/418/200"
         },
         {
             "index": 419,
-            "title": "Kabupaten Banggai Kepulauan",
+            "title": "Banggai Islands Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/419/200"
         },
         {
             "index": 420,
-            "title": "Kabupaten Banggai Laut",
+            "title": "Banggai Laut Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/420/200"
         },
         {
             "index": 421,
-            "title": "Kabupaten Buol",
+            "title": "Buol County",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/421/200"
         },
         {
             "index": 422,
-            "title": "Kabupaten Donggala",
+            "title": "Donggala Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/422/200"
         },
         {
             "index": 423,
-            "title": "Kabupaten Morowali",
+            "title": "Morowali Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/423/200"
         },
         {
             "index": 424,
-            "title": "Kabupaten Morowali Utara",
+            "title": "North Morowali Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/424/200"
         },
         {
             "index": 425,
-            "title": "Kabupaten Parigi Moutong",
+            "title": "Parigi Moutong Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/425/200"
         },
         {
             "index": 426,
-            "title": "Kabupaten Poso",
+            "title": "Poso Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/426/200"
         },
         {
             "index": 427,
-            "title": "Kabupaten Sigi",
+            "title": "Sigi Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/427/200"
         },
         {
             "index": 428,
-            "title": "Kabupaten Tojo Una-Una",
+            "title": "Tojo Una-Una Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/428/200"
         },
         {
             "index": 429,
-            "title": "Kabupaten Tolitoli",
+            "title": "Tolitoli County",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/429/200"
         },
         {
             "index": 430,
-            "title": "Kota Palu",
+            "title": "Palu Town",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/430/200"
         },
         {
             "index": 431,
-            "title": "Kabupaten Boalemo",
+            "title": "Boalemo County",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/431/200"
         },
         {
             "index": 432,
-            "title": "Kabupaten Bone Bolango",
+            "title": "Bone Bolango Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/432/200"
         },
         {
             "index": 433,
-            "title": "Kabupaten Gorontalo",
+            "title": "Gorontalo Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/433/200"
         },
         {
             "index": 434,
-            "title": "Kabupaten Gorontalo Utara",
+            "title": "North Gorontalo Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/434/200"
         },
         {
             "index": 435,
-            "title": "Kabupaten Pohuwato",
+            "title": "Pohuwato County",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/435/200"
         },
         {
             "index": 436,
-            "title": "Kota Gorontalo",
+            "title": "Gorontalo City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/436/200"
         },
         {
             "index": 437,
-            "title": "Kabupaten Bolaang Mongondow",
+            "title": "Bolaang Mongondow Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/437/200"
         },
         {
             "index": 438,
-            "title": "Kabupaten Bolaang Mongondow Selatan",
+            "title": "South Bolaang Mongondow Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/438/200"
         },
         {
             "index": 439,
-            "title": "Kabupaten Bolaang Mongondow Timur",
+            "title": "East Bolaang Mongondow Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/439/200"
         },
         {
             "index": 440,
-            "title": "Kabupaten Bolaang Mongondow Utara",
+            "title": "North Bolaang Mongondow Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/440/200"
         },
         {
             "index": 441,
-            "title": "Kabupaten Kepulauan Sangihe",
+            "title": "Sangihe Islands Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/441/200"
         },
         {
             "index": 442,
-            "title": "Kabupaten Kepulauan Siau Tagulandang Biaro (Sitaro)",
+            "title": "Siau Archipelago Regency Tagulandang Biaro (Sitaro)",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/442/200"
         },
         {
             "index": 443,
-            "title": "Kabupaten Kepulauan Talaud",
+            "title": "Talaud Islands Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/443/200"
         },
         {
             "index": 444,
-            "title": "Kabupaten Minahasa",
+            "title": "Minahasa Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/444/200"
         },
         {
             "index": 445,
-            "title": "Kabupaten Minahasa Selatan",
+            "title": "South Minahasa Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/445/200"
         },
         {
             "index": 446,
-            "title": "Kabupaten Minahasa Tenggara",
+            "title": "Southeast Minahasa Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/446/200"
         },
         {
             "index": 447,
-            "title": "Kabupaten Minahasa Utara",
+            "title": "North Minahasa Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/447/200"
         },
         {
             "index": 448,
-            "title": "Kota Bitung",
+            "title": "Bitung City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/448/200"
         },
         {
             "index": 449,
-            "title": "Kota Kotamobagu",
+            "title": "Kotamobagu City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/449/200"
         },
         {
             "index": 450,
-            "title": "Kota Manado",
+            "title": "Manado City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/450/200"
         },
         {
             "index": 451,
-            "title": "Kota Tomohon",
+            "title": "Tomohon City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/451/200"
         },
         {
             "index": 452,
-            "title": "Kabupaten Buru",
+            "title": "Buru Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/452/200"
         },
         {
             "index": 453,
-            "title": "Kabupaten Buru Selatan",
+            "title": "South Buru Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/453/200"
         },
         {
             "index": 454,
-            "title": "Kabupaten Kepulauan Aru",
+            "title": "Aru Islands Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/454/200"
         },
         {
             "index": 455,
-            "title": "Kabupaten Maluku Barat Daya",
+            "title": "Southwest Maluku Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/455/200"
         },
         {
             "index": 456,
-            "title": "Kabupaten Maluku Tengah",
+            "title": "Central Maluku Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/456/200"
         },
         {
             "index": 457,
-            "title": "Kabupaten Maluku Tenggara",
+            "title": "Southeast Maluku Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/457/200"
         },
         {
             "index": 458,
-            "title": "Kabupaten Kepulauan Tanimbar",
+            "title": "Tanimbar Islands Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/458/200"
         },
         {
             "index": 459,
-            "title": "Kabupaten Seram Bagian Barat",
+            "title": "West Seram Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/459/200"
         },
         {
             "index": 460,
-            "title": "Kabupaten Seram Bagian Timur",
+            "title": "Eastern Seram Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/460/200"
         },
         {
             "index": 461,
-            "title": "Kota Ambon",
+            "title": "Ambon City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/461/200"
         },
         {
             "index": 462,
-            "title": "Kota Tual",
+            "title": "Tual Town",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/462/200"
         },
         {
             "index": 463,
-            "title": "Kabupaten Halmahera Barat",
+            "title": "West Halmahera Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/463/200"
         },
         {
             "index": 464,
-            "title": "Kabupaten Halmahera Tengah",
+            "title": "Central Halmahera Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/464/200"
         },
         {
             "index": 465,
-            "title": "Kabupaten Halmahera Timur",
+            "title": "East Halmahera Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/465/200"
         },
         {
             "index": 466,
-            "title": "Kabupaten Halmahera Selatan",
+            "title": "South Halmahera Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/466/200"
         },
         {
             "index": 467,
-            "title": "Kabupaten Halmahera Utara",
+            "title": "North Halmahera Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/467/200"
         },
         {
             "index": 468,
-            "title": "Kabupaten Kepulauan Sula",
+            "title": "Sula Archipelago Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/468/200"
         },
         {
             "index": 469,
-            "title": "Kabupaten Pulau Morotai",
+            "title": "Morotai Island County",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/469/200"
         },
         {
             "index": 470,
-            "title": "Kabupaten Pulau Taliabu",
+            "title": "Taliabu Island Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/470/200"
         },
         {
             "index": 471,
-            "title": "Kota Ternate",
+            "title": "Ternate City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/471/200"
         },
         {
             "index": 472,
-            "title": "Kota Tidore Kepulauan",
+            "title": "Tidore Islands City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/472/200"
         },
         {
             "index": 473,
-            "title": "Kabupaten Fakfak",
+            "title": "Fakfak Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/473/200"
         },
         {
             "index": 474,
-            "title": "Kabupaten Kaimana",
+            "title": "Kaimana County",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/474/200"
         },
         {
             "index": 475,
-            "title": "Kabupaten Manokwari",
+            "title": "Manokwari Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/475/200"
         },
         {
             "index": 476,
-            "title": "Kabupaten Manokwari Selatan",
+            "title": "South Manokwari Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/476/200"
         },
         {
             "index": 477,
-            "title": "Kabupaten Maybrat",
+            "title": "Maybrat County",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/477/200"
         },
         {
             "index": 478,
-            "title": "Kabupaten Pegunungan Arfak",
+            "title": "Arfak Mountains County",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/478/200"
         },
         {
@@ -2396,177 +2396,177 @@
         },
         {
             "index": 480,
-            "title": "Kabupaten Sorong",
+            "title": "Sorong Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/480/200"
         },
         {
             "index": 481,
-            "title": "Kabupaten Sorong Selatan",
+            "title": "South Sorong Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/481/200"
         },
         {
             "index": 482,
-            "title": "Kabupaten Tambrauw",
+            "title": "Tambrauw Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/482/200"
         },
         {
             "index": 483,
-            "title": "Kabupaten Teluk Bintuni",
+            "title": "Bintuni Bay Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/483/200"
         },
         {
             "index": 484,
-            "title": "Kabupaten Teluk Wondama",
+            "title": "Wondama Bay District",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/484/200"
         },
         {
             "index": 485,
-            "title": "Kota Sorong",
+            "title": "Sorong City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/485/200"
         },
         {
             "index": 486,
-            "title": "Kabupaten Asmat",
+            "title": "Asmat Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/486/200"
         },
         {
             "index": 487,
-            "title": "Kabupaten Biak Numfor",
+            "title": "Biak Numfor Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/487/200"
         },
         {
             "index": 488,
-            "title": "Kabupaten Boven Digoel",
+            "title": "Boven Digoel Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/488/200"
         },
         {
             "index": 489,
-            "title": "Kabupaten Deiyai",
+            "title": "Deiyai ​​County",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/489/200"
         },
         {
             "index": 490,
-            "title": "Kabupaten Dogiyai",
+            "title": "Dogiyai County",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/490/200"
         },
         {
             "index": 491,
-            "title": "Kabupaten Intan Jaya",
+            "title": "Intan Jaya Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/491/200"
         },
         {
             "index": 492,
-            "title": "Kabupaten Jayapura",
+            "title": "Jayapura Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/492/200"
         },
         {
             "index": 493,
-            "title": "Kabupaten Jayawijaya",
+            "title": "Jayawijaya Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/493/200"
         },
         {
             "index": 494,
-            "title": "Kabupaten Keerom",
+            "title": "Keerom Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/494/200"
         },
         {
             "index": 495,
-            "title": "Kabupaten Kepulauan Yapen",
+            "title": "Yapen Islands Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/495/200"
         },
         {
             "index": 496,
-            "title": "Kabupaten Lanny Jaya",
+            "title": "Lanny Jaya Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/496/200"
         },
         {
             "index": 497,
-            "title": "Kabupaten Mamberamo Raya",
+            "title": "Mamberamo Raya Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/497/200"
         },
         {
             "index": 498,
-            "title": "Kabupaten Mamberamo Tengah",
+            "title": "Central Mamberamo District",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/498/200"
         },
         {
             "index": 499,
-            "title": "Kabupaten Mappi",
+            "title": "Mappi County",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/499/200"
         },
         {
             "index": 500,
-            "title": "Kabupaten Merauke",
+            "title": "Merauke Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/500/200"
         },
         {
             "index": 501,
-            "title": "Kabupaten Mimika",
+            "title": "Mimika County",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/501/200"
         },
         {
             "index": 502,
-            "title": "Kabupaten Nabire",
+            "title": "Nabire District",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/502/200"
         },
         {
             "index": 503,
-            "title": "Kabupaten Nduga",
+            "title": "Nduga Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/503/200"
         },
         {
             "index": 504,
-            "title": "Kabupaten Paniai",
+            "title": "Paniai Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/504/200"
         },
         {
             "index": 505,
-            "title": "Kabupaten Pegunungan Bintang",
+            "title": "Star Mountains County",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/505/200"
         },
         {
             "index": 506,
-            "title": "Kabupaten Puncak",
+            "title": "Peak District",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/506/200"
         },
         {
             "index": 507,
-            "title": "Kabupaten Puncak Jaya",
+            "title": "Peak Jaya Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/507/200"
         },
         {
             "index": 508,
-            "title": "Kabupaten Sarmi",
+            "title": "Sarmi Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/508/200"
         },
         {
             "index": 509,
-            "title": "Kabupaten Supiori",
+            "title": "Supiori County",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/509/200"
         },
         {
             "index": 510,
-            "title": "Kabupaten Tolikara",
+            "title": "Tolikara Regency",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/510/200"
         },
         {
             "index": 511,
-            "title": "Kabupaten Waropen",
+            "title": "Waropen District",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/511/200"
         },
         {
             "index": 512,
-            "title": "Kabupaten Yahukimo",
+            "title": "Yahukimo County",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/512/200"
         },
         {
             "index": 513,
-            "title": "Kabupaten Yalimo",
+            "title": "Yalimo District",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/513/200"
         },
         {
             "index": 514,
-            "title": "Kota Jayapura",
+            "title": "Jayapura City",
             "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/514/200"
         }
     ]
