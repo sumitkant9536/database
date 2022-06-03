@@ -1,1512 +1,1512 @@
 [
   {
     "index": 0,
-    "soal": "Tempat, Tiket, PopCorn, Film, Gedung",
-    "jawaban": "BIOSKOP"
+    "question": "Places, Tickets, PopCorn, Movies, Buildings",
+    "answer": "BIOSCHOPE"
   },
   {
     "index": 1,
-    "soal": "Profesi, Laut, Jaring, Ikan, Perahu",
-    "jawaban": "NELAYAN"
+    "question": "Profession, Sea, Net, Fish, Boat",
+    "answer": "FISHERMAN"
   },
   {
     "index": 2,
-    "soal": "Sepatu, Net, Raket, Kok",
-    "jawaban": "BULUTANGKIS"
+    "question": "Shoes, Net, Racket, Shuttle",
+    "answer": "Badminton"
   },
   {
     "index": 3,
-    "soal": "Botol, Buah-buahan, Sayuran, Dingin",
-    "jawaban": "KULKAS"
+    "question": "Bottles, Fruits, Vegetables, Cold",
+    "answer": "refrigerator"
   },
   {
     "index": 4,
-    "soal": "Rusa, Hutan, Senapan, Target",
-    "jawaban": "PEMBURU"
+    "question": "Deer, Forest, Rifle, Target",
+    "answer": "HUNTER"
   },
   {
     "index": 5,
-    "soal": "Malam, Kasur, Bantal, Merem",
-    "jawaban": "TIDUR"
+    "question": "Night, Mattress, Pillow, Brake",
+    "answer": "SLEEP"
   },
   {
     "index": 6,
-    "soal": "Listrik, Antena, Siaran, Remot",
-    "jawaban": "TELEVISI"
+    "question": "Electricity, Antenna, Broadcast, Remote",
+    "answer": "TV"
   },
   {
     "index": 7,
-    "soal": "Jalan, Sirine, Orang Sakit, Cepat",
-    "jawaban": "AMBULAN"
+    "question": "Road, Sirens, Sick, Fast",
+    "answer": "AMbulance"
   },
   {
     "index": 8,
-    "soal": "Keju, Sapi, Gelas, Bayi",
-    "jawaban": "SUSU"
+    "question": "Cheese, Cow, Glass, Baby",
+    "answer": "MILK"
   },
   {
     "index": 9,
-    "soal": "Uang, Bayar, Saku, Kartu ATM",
-    "jawaban": "DOMPET"
+    "question": "Money, Pay, Pocket, ATM Card",
+    "answer": "WALLET"
   },
   {
     "index": 10,
-    "soal": "Benda, Maling, Tangan, Polisi, Kunci",
-    "jawaban": "BORGOL"
+    "question": "Object, Thief, Hand, Police, Key",
+    "answer": "Cufflinks"
   },
   {
     "index": 11,
-    "soal": "Profesi, Kaca pembesar, Misteri",
-    "jawaban": "DETEKTIF"
+    "question": "Profession, Magnifying Glass, Mystery",
+    "answer": "DETECTIVE"
   },
   {
     "index": 12,
-    "soal": "Benda, Tajam, Potong Buah",
-    "jawaban": "PISAU"
+    "question": "Item, Sharp, Cut Fruit",
+    "answer": "KNIFE"
   },
   {
     "index": 13,
-    "soal": "Tempat, Lapar, Makan, Koki, Daftar Harga",
-    "jawaban": "RESTORAN"
+    "question": "Place, Hungry, Eat, Chef, Price List",
+    "answer": "RESTAURANT"
   },
   {
     "index": 14,
-    "soal": "Benda, Sepasang, Kanan, Kiri, Lari",
-    "jawaban": "SEPATU"
+    "question": "Things, Pair, Right, Left, Run",
+    "answer": "SHOES"
   },
   {
     "index": 15,
-    "soal": "Makhluk Hidup, Matador, Tanduk",
-    "jawaban": "BANTENG"
+    "question": "Living Creatures, Matadors, Horns",
+    "answer": "BULL"
   },
   {
     "index": 16,
-    "soal": "Tempat, Gedung, Tidur, Kunci, Resepsionis",
-    "jawaban": "HOTEL"
+    "question": "Place, Building, Sleep, Key, Reception",
+    "answer": "HOTEL"
   },
   {
     "index": 17,
-    "soal": "Ring, Kejuaraan, Tangan, Olahraga",
-    "jawaban": "TINJU"
+    "question": "Ring, Championship, Hand, Sport",
+    "answer": "FIT"
   },
   {
     "index": 18,
-    "soal": "Angka, Tanggal, Bulan, Tahun, Hari",
-    "jawaban": "KALENDER"
+    "question": "Number, Date, Month, Year, Day",
+    "answer": "CALENDAR"
   },
   {
     "index": 19,
-    "soal": "Kegiatan, Air, Sabun, Handuk",
-    "jawaban": "MANDI"
+    "question": "Activity, Water, Soap, Towel",
+    "answer": "Shower"
   },
   {
     "index": 20,
-    "soal": "Benda, Wangi, Busa, Mandi",
-    "jawaban": "SABUN"
+    "question": "Object, Fragrant, Foam, Bath",
+    "answer": "SOAP"
   },
   {
     "index": 21,
-    "soal": "Benda, Tidur, Kasur, Panjang, Empuk",
-    "jawaban": "GULING"
+    "question": "Object, Sleep, Mattress, Length, Soft",
+    "answer": "ROLL"
   },
   {
     "index": 22,
-    "soal": "Benda, Listrik, Nyala, Saklar",
-    "jawaban": "LAMPU"
+    "question": "Object, Electricity, On, Switch",
+    "answer": "LIGHTS"
   },
   {
     "index": 23,
-    "soal": "Benda, Minum, Sakit, Dokter, Apotek",
-    "jawaban": "OBAT"
+    "question": "Things, Drink, Sick, Doctor, Pharmacy",
+    "answer": "DRUG"
   },
   {
     "index": 24,
-    "soal": "Benda, Sakit, Dokter, Ketiak, Derajat",
-    "jawaban": "TERMOMETER"
+    "question": "Object, Pain, Doctor, Armpit, Degree",
+    "answer": "TERMOMETER"
   },
   {
     "index": 25,
-    "soal": "Darah, Malam, Gatal, Makhluk Hidup",
-    "jawaban": "NYAMUK"
+    "question": "Blood, Night, Itching, Living Creatures",
+    "answer": "mosquito"
   },
   {
     "index": 26,
-    "soal": "Negara, Seni, Bola, Pizza, Pisa",
-    "jawaban": "ITALIA"
+    "question": "Country, Art, Ball, Pizza, Pisa",
+    "answer": "ITALY"
   },
   {
     "index": 27,
-    "soal": "Gua, Malam, Gelap, Makhuk Hidup",
-    "jawaban": "KELELAWAR"
+    "question": "Cave, Night, Dark, Living Beings",
+    "answer": "BAT"
   },
   {
     "index": 28,
-    "soal": "Kelapa, Pasir, Laut, Tempat",
-    "jawaban": "PANTAI"
+    "question": "Coconut, Sand, Sea, Place",
+    "answer": "BEACH"
   },
   {
     "index": 29,
-    "soal": "Benda, Badut, Anak-Anak, Ulang Tahun, Meledak",
-    "jawaban": "BALON"
+    "question": "Things, Clowns, Kids, Birthdays, Explodes",
+    "answer": "BALLOON"
   },
   {
     "index": 30,
-    "soal": "Benda, Nenek Sihir, Office Boy",
-    "jawaban": "SAPU"
+    "question": "Things, Witch, Office Boy",
+    "answer": "Broom"
   },
   {
     "index": 31,
-    "soal": "Origami, Sakura, Sumo, Sushi",
-    "jawaban": "JEPANG"
+    "question": "Origami, Sakura, Sumo, Sushi",
+    "answer": "JAPAN"
   },
   {
     "index": 32,
-    "soal": "Perempuan, Bibir, Merah, Kecantikan",
-    "jawaban": "LIPSTIK"
+    "question": "Female, Lips, Red, Beauty",
+    "answer": "LIPSTICK"
   },
   {
     "index": 33,
-    "soal": "Raja, Daging, Hutan, Taring",
-    "jawaban": "SINGA"
+    "question": "King, Flesh, Forest, Fang",
+    "answer": "LION"
   },
   {
     "index": 34,
-    "soal": "Dompet, ATM, Bank",
-    "jawaban": "UANG"
+    "question": "Wallet, ATM, Bank",
+    "answer": "MONEY"
   },
   {
     "index": 35,
-    "soal": "Angka, Waktu, Jarum, Tangan",
-    "jawaban": "ARLOJI"
+    "question": "Number, Time, Hand, Hand",
+    "answer": "WATCH"
   },
   {
     "index": 36,
-    "soal": "Masak, Koki, Api",
-    "jawaban": "KOMPOR"
+    "question": "Cook, Chef, Fire",
+    "answer": "STOVE"
   },
   {
     "index": 37,
-    "soal": "Sapi, Domba, Hijau, Lapangan",
-    "jawaban": "RUMPUT"
+    "question": "Cow, Sheep, Green, Field",
+    "answer": "GRASS"
   },
   {
     "index": 38,
-    "soal": "Ayam Goreng, Arab, SPBU, Katel",
-    "jawaban": "MINYAK"
+    "question": "Fried Chicken, Arabic, Gas Station, Katel",
+    "answer": "OIL"
   },
   {
     "index": 39,
-    "soal": "Pintu, Lemari, Mobil, Gembok",
-    "jawaban": "KUNCI"
+    "question": "Door, Cupboard, Car, Padlock",
+    "answer": "KEY"
   },
   {
     "index": 40,
-    "soal": "Ulat, Bunga, Hewan",
-    "jawaban": "KUPU KUPU"
+    "question": "Caterpillars, Flowers, Animals",
+    "answer": "BUFTERFLY"
   },
   {
     "index": 41,
-    "soal": "Mobil, Motor, Bising, Polusi",
-    "jawaban": "KNALPOT"
+    "question": "Cars, Motorcycles, Noise, Pollution",
+    "answer": "exhaust"
   },
   {
     "index": 42,
-    "soal": "Hakim, Paku",
-    "jawaban": "PALU"
+    "question": "Judge, Nail",
+    "answer": "hammer"
   },
   {
     "index": 43,
-    "soal": "Jari, Hadiah, Pernikahan, Pasangan",
-    "jawaban": "CINCIN"
+    "question": "Finger, Gift, Wedding, Couple",
+    "answer": "RING"
   },
   {
     "index": 44,
-    "soal": "Nasi, Daging, Sumpit, Jepang",
-    "jawaban": "SUSHI"
+    "question": "Rice, Meat, Chopsticks, Japanese",
+    "answer": "SUSHI"
   },
   {
     "index": 45,
-    "soal": "Buku, Jangan Berisik, Ruangan, Membaca",
-    "jawaban": "PERPUSTAKAAN"
+    "question": "Books, Don't Be Loud, Room, Reading",
+    "answer": "LIBRARY"
   },
   {
     "index": 46,
-    "soal": "Televisi, Battre, Halilintar, Tengangan",
-    "jawaban": "LISTRIK"
+    "question": "Television, Battery, Lightning, Tengangan",
+    "answer": "ELECTRICITY"
   },
   {
     "index": 47,
-    "soal": "Supir, Jalanan, Tujuan, Bayar",
-    "jawaban": "TAKSI"
+    "question": "Driver, Road, Destination, Pay",
+    "answer": "TAXI"
   },
   {
     "index": 48,
-    "soal": "Kedelai, Lezat, Memasak",
-    "jawaban": "KECAP"
+    "question": "Soy, Delicious, Cooking",
+    "answer": "KAP"
   },
   {
     "index": 49,
-    "soal": "Bau, Buang Air, Pria, Wanita",
-    "jawaban": "TOILET"
+    "question": "Smell, Urination, Male, Female",
+    "answer": "TOILET"
   },
   {
     "index": 50,
-    "soal": "Bambu, China, Hitam, Putih, Llucu",
-    "jawaban": "PANDA"
+    "question": "Bamboo, China, Black, White, Cute",
+    "answer": "PANDA"
   },
   {
     "index": 51,
-    "soal": "Pagi, Roti, Susu",
-    "jawaban": "SARAPAN"
+    "question": "Morning, Bread, Milk",
+    "answer": "BREAKFAST"
   },
   {
     "index": 52,
-    "soal": "Laba-laba, Jaring, Merah, Biru",
-    "jawaban": "SPIDERMAN"
+    "question": "Spider, Web, Red, Blue",
+    "answer": "SPIDERMAN"
   },
   {
     "index": 53,
-    "soal": "Diatas, Hormat, Negara",
-    "jawaban": "BENDERA"
+    "question": "Above, Sincerely, Country",
+    "answer": "FLAG"
   },
   {
     "index": 54,
-    "soal": "Mata, Pembesar, Bakteri, Peneliti",
-    "jawaban": "MIKROSKOP"
+    "question": "Eye, Magnifying, Bacteria, Researcher",
+    "answer": "MICROSCOPE"
   },
   {
     "index": 55,
-    "soal": "Apolo, Bulan",
-    "jawaban": "ASTRONOT"
+    "question": "Apolo, Moon",
+    "answer": "ASTRONOT"
   },
   {
     "index": 56,
-    "soal": "Perkakas, Kendaraan, Perbaikan",
-    "jawaban": "MONTIR"
+    "question": "Tools, Vehicles, Repair",
+    "answer": "MONTHER"
   },
   {
     "index": 57,
-    "soal": "Handphone, Remot, Plus, Minus, Mainan",
-    "jawaban": "BATTRE"
+    "question": "Mobile Phone, Remote, Plus, Minus, Toys",
+    "answer": "BATTERY"
   },
   {
     "index": 58,
-    "soal": "Beruang, Lebah, Bunga",
-    "jawaban": "MADU"
+    "question": "Bear, Bee, Flower",
+    "answer": "HONEY"
   },
   {
     "index": 59,
-    "soal": "Tikus, Ikan, Lonceng",
-    "jawaban": "KUCING"
+    "question": "Rat, Fish, Bell",
+    "answer": "CAT"
   },
   {
     "index": 60,
-    "soal": "Mendali, Piala, No1, Menang",
-    "jawaban": "JUARA"
+    "question": "Medal, Trophy, No1, Win",
+    "answer": "CHAMPION"
   },
   {
     "index": 61,
-    "soal": "Panas, Pakaian, Listrik, Rapi",
-    "jawaban": "SETRIKA"
+    "question": "Heat, Clothes, Electricity, Neat",
+    "answer": "IRON"
   },
   {
     "index": 62,
-    "soal": "Balon, Kue, Hadiah, Lilin",
-    "jawaban": "ULANG TAHUN"
+    "question": "Balloons, Cakes, Gifts, Candles",
+    "answer": "BIRTHDAY"
   },
   {
     "index": 63,
-    "soal": "Motor, Kepala, Pengendara",
-    "jawaban": "HELM"
+    "question": "Motor, Head, Rider",
+    "answer": "HELMET"
   },
   {
     "index": 64,
-    "soal": "Pesawat, Perempuan, Ramah",
-    "jawaban": "PRAMUGARI"
+    "question": "Airplane, Girl, Friendly",
+    "answer": "STEWESTNESS"
   },
   {
     "index": 65,
-    "soal": "Bau, Sakit Perut, Bunyi",
-    "jawaban": "KENTUT"
+    "question": "Smell, Stomach Pain, Sound",
+    "answer": "FART"
   },
   {
     "index": 66,
-    "soal": "Setrika, Matahari, Api, Neraka",
-    "jawaban": "PANAS"
+    "question": "Iron, Sun, Fire, Hell",
+    "answer": "HOT"
   },
   {
     "index": 67,
-    "soal": "Enam, Titik, Kotak, Di Kocok",
-    "jawaban": "DADU"
+    "question": "Six, Dot, Square, Shuffled",
+    "answer": "DICE"
   },
   {
     "index": 68,
-    "soal": "Warna Warni, Hujan",
-    "jawaban": "PELANGI"
+    "question": "Colorful, Rain",
+    "answer": "RAWIND"
   },
   {
     "index": 69,
-    "soal": "Manis, Semut, Sakit Gigi, Anak-Anak",
-    "jawaban": "PERMEN"
+    "question": "Sweet, Ants, Toothache, Children",
+    "answer": "CANDY"
   },
   {
     "index": 70,
-    "soal": "Mobil, Motor, Brisik, Bunyi",
-    "jawaban": "KLAKSON"
+    "question": "Car, Motorcycle, Noise, Sound",
+    "answer": "HORN"
   },
   {
     "index": 71,
-    "soal": "Loncat, Kantung, Australia",
-    "jawaban": "KANGGURU"
+    "question": "Jump, Pouch, Australia",
+    "answer": "KANGGURU"
   },
   {
     "index": 72,
-    "soal": "Berlian, Emas, Peta, Rahasaia",
-    "jawaban": "HARTA KARUN"
+    "question": "Diamonds, Gold, Maps, Secrets",
+    "answer": "Treasure"
   },
   {
     "index": 73,
-    "soal": "Mata, Sup, Orange, Kelinci",
-    "jawaban": "WORTEL"
+    "question": "Eyes, Soup, Orange, Rabbit",
+    "answer": "CARROTLE"
   },
   {
     "index": 74,
-    "soal": "Suntik, Jarum, Merah, Nyamuk",
-    "jawaban": "DARAH"
+    "question": "Injection, Needle, Red, Mosquito",
+    "answer": "BLOOD"
   },
   {
     "index": 75,
-    "soal": "Asin, Laut, Putih, Memasak",
-    "jawaban": "GARAM"
+    "question": "Salty, Sea, White, Cooking",
+    "answer": "SALT"
   },
   {
     "index": 76,
-    "soal": "Hidung, Oksigen, Dada, Nafas",
-    "jawaban": "PARU PARU"
+    "question": "Nose, Oxygen, Chest, Breath",
+    "answer": "LUNGS"
   },
   {
     "index": 77,
-    "soal": "Pinggang, Panjang",
-    "jawaban": "SABUK"
+    "question": "Waist, Length",
+    "answer": "BELT"
   },
   {
     "index": 78,
-    "soal": "Kepala, Obat",
-    "jawaban": "Pusing"
+    "question": "Head, Medicine",
+    "answer": "Dizzy"
   },
   {
     "index": 79,
-    "soal": "Sampah, Kuman, Terbang, Sakit Perut",
-    "jawaban": "LALAT"
+    "question": "Garbage, Germs, Flying, Stomach Pain",
+    "answer": "FLY"
   },
   {
     "index": 80,
-    "soal": "Robot, Kucing Jepang",
-    "jawaban": "DORAEMON"
+    "question": "Robot, Japanese Cat",
+    "answer": "DORAEMON"
   },
   {
     "index": 81,
-    "soal": "12, Bulan, Tahun Baru, Natal",
-    "jawaban": "DESEMBER"
+    "question": "12, Month, New Year, Christmas",
+    "answer": "DECEMBER"
   },
   {
     "index": 82,
-    "soal": "Hijau, Loncat, Air, Darat",
-    "jawaban": "KATAK"
+    "question": "Green, Jump, Water, Land",
+    "answer": "FROG"
   },
   {
     "index": 83,
-    "soal": "Punggung, Seleting, Buku",
-    "jawaban": "TAS"
+    "question": "Back, Aftermath, Book",
+    "answer": "BAG"
   },
   {
     "index": 84,
-    "soal": "Unta, Piramid, Kaktus, Kering",
-    "jawaban": "GURUN PASIR"
+    "question": "Camel, Pyramid, Cactus, Dry",
+    "answer": "DESERT"
   },
   {
     "index": 85,
-    "soal": "Putih, Tipis, Lap, Toilet",
-    "jawaban": "TISU"
+    "question": "White, Thin, Wipe, Toilet",
+    "answer": "Tissue"
   },
   {
     "index": 86,
-    "soal": "Naik Turun, Jaket, Celana, Tas",
-    "jawaban": "RESLETING"
+    "question": "Up and Down, Jacket, Pants, Bag",
+    "answer": "zipper"
   },
   {
     "index": 87,
-    "soal": "Menyelam, Minum, Siram, Ikan",
-    "jawaban": "AIR"
+    "question": "Dive, Drink, Flush, Fish",
+    "answer": "WATER"
   },
   {
     "index": 88,
-    "soal": "Sepasang, Mendengar",
-    "jawaban": "TELINGA"
+    "question": "Pair, Listening",
+    "answer": "EARS"
   },
   {
     "index": 89,
-    "soal": "Susu, Gigi, Kertas",
-    "jawaban": "PUTIH"
+    "question": "Milk, Teeth, Paper",
+    "answer": "WHITE"
   },
   {
     "index": 90,
-    "soal": "Hidung, Panjang, Bohong, Kayu",
-    "jawaban": "PINOKIO"
+    "question": "Nose, Long, Lie, Wood",
+    "answer": "PINOKIO"
   },
   {
     "index": 91,
-    "soal": "UFO, Planet",
-    "jawaban": "ALIEN"
+    "question": "UFO, Planet",
+    "answer": "ALIENS"
   },
   {
     "index": 92,
-    "soal": "Mendengar, Suara, Jarak Jauh",
-    "jawaban": "TELEPON"
+    "question": "Hearing, Voice, Remote",
+    "answer": "PHONE"
   },
   {
     "index": 93,
-    "soal": "Naik, Turun, Kaki",
-    "jawaban": "TANGGA"
+    "question": "Up, Down, Feet",
+    "answer": "STAIRS"
   },
   {
     "index": 94,
-    "soal": "Kepala, Terik, Pantai",
-    "jawaban": "TOPI"
+    "question": "Head, Hot, Beach",
+    "answer": "HAT"
   },
   {
     "index": 95,
-    "soal": "Burung, Pesawat, Nyamuk, Superman",
-    "jawaban": "TERBANG"
+    "question": "Birds, Planes, Mosquitoes, Superman",
+    "answer": "FLY"
   },
   {
     "index": 96,
-    "soal": "Tidur, Brisik",
-    "jawaban": "NGOROK"
+    "question": "Sleep, Brisik",
+    "answer": "snoring"
   },
   {
     "index": 97,
-    "soal": "Utara, Selatan, Kompas, Menempel",
-    "jawaban": "MAGNET"
+    "question": "North, South, Compass, Sticking",
+    "answer": "MAGNET"
   },
   {
     "index": 98,
-    "soal": "Masinis, Pluit, Tiket, Rel",
-    "jawaban": "KERETA API"
+    "question": "Engineer, Whistles, Tickets, Rails",
+    "answer": "TRAIN"
   },
   {
     "index": 99,
-    "soal": "Membaca, Mata, Huruf",
-    "jawaban": "KACAMATA"
+    "question": "Reading, Eyes, Letters",
+    "answer": "GLASSES"
   },
   {
     "index": 100,
-    "soal": "Bola, Tangan, Gawang",
-    "jawaban": "KIPER"
+    "question": "Ball, Hand, Goal",
+    "answer": "GOALKER"
   },
   {
     "index": 101,
-    "soal": "Taj Mahal, Bajaj, Ular, Gajah",
-    "jawaban": "INDIA"
+    "question": "Taj Mahal, Bajaj, Snake, Elephant",
+    "answer": "INDIA"
   },
   {
     "index": 102,
-    "soal": "Kartu, Tongkat, Kelinci, Burung",
-    "jawaban": "SULAP"
+    "question": "Card, Stick, Rabbit, Bird",
+    "answer": "MAIL"
   },
   {
     "index": 103,
-    "soal": "Kertas, Burung, Kampak, Oksigen",
-    "jawaban": "POHON"
+    "question": "Paper, Bird, Axe, Oxygen",
+    "answer": "TREE"
   },
   {
     "index": 104,
-    "soal": "Tajam, Ikan, Berbahaya",
-    "jawaban": "PIRANHA"
+    "question": "Sharp, Fish, Dangerous",
+    "answer": "PIRANHA"
   },
   {
     "index": 105,
-    "soal": "Ketik, Jari, Komputer, Huruf",
-    "jawaban": "KEYBOARD"
+    "question": "Type, Finger, Computer, Letters",
+    "answer": "KEYBOARD"
   },
   {
     "index": 106,
-    "soal": "Mulut, Plastik, Panjang, Minuman",
-    "jawaban": "SEDOTAN"
+    "question": "Mouth, Plastic, Long, Drink",
+    "answer": "STRAW"
   },
   {
     "index": 107,
-    "soal": "Stir, Roda, Donat",
-    "jawaban": "LINGKARAN"
+    "question": "Stir, Wheel, Donut",
+    "answer": "CIRCLE"
   },
   {
     "index": 108,
-    "soal": "Kuning, Monyet",
-    "jawaban": "PISANG"
+    "question": "Yellow, Monkey",
+    "answer": "BANANA"
   },
   {
     "index": 109,
-    "soal": "Api, Tiup, Kue",
-    "jawaban": "LILIN"
+    "question": "Fire, Blow, Cake",
+    "answer": "CANDLE"
   },
   {
     "index": 110,
-    "soal": "Baling-baling, Pilot, Awan",
-    "jawaban": "PESAWAT"
+    "question": "Propeller, Pilot, Cloud",
+    "answer": "Airplane"
   },
   {
     "index": 111,
-    "soal": "Koboi, Tapal, Rumput",
-    "jawaban": "KUDA"
+    "question": "Cowboy, Poultry, Grass",
+    "answer": "HORSE"
   },
   {
     "index": 112,
-    "soal": "Makanan, Italia, Bulat, Panggang",
-    "jawaban": "PIZZA"
+    "question": "Food, Italian, Round, Baked",
+    "answer": "PIZZA"
   },
   {
     "index": 113,
-    "soal": "Keju, Kincir Angin, Tulip",
-    "jawaban": "BELANDA"
+    "question": "Cheese, Windmill, Tulip",
+    "answer": "Netherlands"
   },
   {
     "index": 114,
-    "soal": "Bebek, Ayam, Bulat",
-    "jawaban": "TELUR"
+    "question": "Duck, Chicken, Round",
+    "answer": "EGG"
   },
   {
     "index": 115,
-    "soal": "Air, Keran, Panjang",
-    "jawaban": "PIPA"
+    "question": "Water, Faucet, Length",
+    "answer": "PIPE"
   },
   {
     "index": 116,
-    "soal": "Lendir, Hidung, Mampet, Tisu",
-    "jawaban": "PILEK"
+    "question": "Mucus, Nose, Congestion, Tissue",
+    "answer": "COLD"
   },
   {
     "index": 117,
-    "soal": "Pucuk, Minuman",
-    "jawaban": "TEH"
+    "question": "Saplings, Drinks",
+    "answer": "TEA"
   },
   {
     "index": 118,
-    "soal": "Dompet, Identitas, Alamat, Telepon",
-    "jawaban": "KARTU NAMA"
+    "question": "Wallet, Identity, Address, Telephone",
+    "answer": "NAME CARD"
   },
   {
     "index": 119,
-    "soal": "Bayi, Kencing, Lembut",
-    "jawaban": "POPOK"
+    "question": "Baby, Pee, Soft",
+    "answer": "DIAPER"
   },
   {
     "index": 120,
-    "soal": "Lampu kilat, Photo, Lensa",
-    "jawaban": "KAMERA"
+    "question": "Flash, Photo, Lens",
+    "answer": "CAMERA"
   },
   {
     "index": 121,
-    "soal": "Tipis, Halus, Jarum",
-    "jawaban": "BENANG"
+    "question": "Thin, Smooth, Needle",
+    "answer": "YARN"
   },
   {
     "index": 122,
-    "soal": "Benda, Senar, Petik",
-    "jawaban": "GITAR"
+    "question": "Object, String, Strum",
+    "answer": "GUITAR"
   },
   {
     "index": 123,
-    "soal": "Baju, Celana, Jaket",
-    "jawaban": "PAKAIAN"
+    "question": "Shirt, Pants, Jacket",
+    "answer": "CLOTHING"
   },
   {
     "index": 124,
-    "soal": "Benda, Bergerak, Mesin",
-    "jawaban": "ROBOT"
+    "question": "Object, Moving, Machine",
+    "answer": "ROBOTS"
   },
   {
     "index": 125,
-    "soal": "Kendaraan, Roda 3, Mobil",
-    "jawaban": "BAJAJ"
+    "question": "Vehicle, 3 Wheel, Car",
+    "answer": "BAJAJ"
   },
   {
     "index": 126,
-    "soal": "Sarjana, Haji, Master",
-    "jawaban": "GELAR"
+    "question": "Bachelor, Hajj, Master",
+    "answer": "DEGREE"
   },
   {
     "index": 127,
-    "soal": "Seni, Dipajang, Dinding, Estetika",
-    "jawaban": "LUKISAN"
+    "question": "Art, Displays, Walls, Aesthetics",
+    "answer": "PAINTING"
   },
   {
     "index": 128,
-    "soal": "Raksasa, Hewan, Kadal, Indonesia",
-    "jawaban": "KOMODO"
+    "question": "Giant, Animal, Lizard, Indonesia",
+    "answer": "KOMODO"
   },
   {
     "index": 129,
-    "soal": "Transportasi darat, Roda, Kayu, Kuda",
-    "jawaban": "ANDONG"
+    "question": "Land transportation, Wheels, Wood, Horses",
+    "answer": "ANDONG"
   },
   {
     "index": 130,
-    "soal": "Sekolah, Papan, Tulis, Putih",
-    "jawaban": "KAPUR"
+    "question": "School, Board, Write, White",
+    "answer": "LIME"
   },
   {
     "index": 131,
-    "soal": "Kendaraan, Transportasi, Darat, Aspal",
-    "jawaban": "JALAN"
+    "question": "Vehicle, Transport, Land, Asphalt",
+    "answer": "WAY"
   },
   {
     "index": 132,
-    "soal": "Elektronik, Kotak, Frekuensi, Suara",
-    "jawaban": "RADIO"
+    "question": "Electronics, Box, Frequency, Sound",
+    "answer": "RADIO"
   },
   {
     "index": 133,
-    "soal": "Tanah liat, Benda, Atap, Rumah",
-    "jawaban": "GENTENG"
+    "question": "Clay, Object, Roof, House",
+    "answer": "TIL"
   },
   {
     "index": 134,
-    "soal": "Malam hari, Sayap, Hitam, Darah",
-    "jawaban": "KELELAWAR"
+    "question": "Night, Wings, Black, Blood",
+    "answer": "BAT"
   },
   {
     "index": 135,
-    "soal": "Segitiga, Mesir, Firaun",
-    "jawaban": "PIRAMIDA"
+    "question": "Triangle, Egypt, Pharaoh",
+    "answer": "Pyramid"
   },
   {
     "index": 136,
-    "soal": "Butiran, Pasir, Manis",
-    "jawaban": "GULA"
+    "question": "Grain, Sand, Sweet",
+    "answer": "SUGAR"
   },
   {
     "index": 137,
-    "soal": "Alat Musik, Sunda, Bambu, Bunyi",
-    "jawaban": "ANGKLUNG"
+    "question": "Musical Instruments, Sundanese, Bamboo, Sound",
+    "answer": "ANGKLUNG"
   },
   {
     "index": 138,
-    "soal": "Padi, Butiran, Kering, Gabah",
-    "jawaban": "BERAS"
+    "question": "Rice, Grain, Dry, Grain",
+    "answer": "RICE"
   },
   {
     "index": 139,
-    "soal": "Rumah, Suku, Pegunungan, Sulawesi",
-    "jawaban": "TORAJA"
+    "question": "House, Tribe, Mountains, Sulawesi",
+    "answer": "TORAJA"
   },
   {
     "index": 140,
-    "soal": "Transportasi, Air, Kayu, Dayung",
-    "jawaban": "PERAHU"
+    "question": "Transportation, Water, Wood, Paddle",
+    "answer": "BOAT"
   },
   {
     "index": 141,
-    "soal": "Pagi Hari, Pegunungan, Pandangan, Dingin",
-    "jawaban": "KABUT"
+    "question": "Morning, Mountains, View, Cold",
+    "answer": "FOG"
   },
   {
     "index": 142,
-    "soal": "Alas, Kaki, Tali",
-    "jawaban": "SEPATU"
+    "question": "Basic, Foot, Rope",
+    "answer": "SHOES"
   },
   {
     "index": 143,
-    "soal": "Rumput, Jenggot, Tanduk, Sate",
-    "jawaban": "KAMBING"
+    "question": "Grass, Beard, Horn, Satay",
+    "answer": "GOAT"
   },
   {
     "index": 144,
-    "soal": "Memasak, Cair, licin, Goreng",
-    "jawaban": "MINYAK"
+    "question": "Cooking, Liquid, Smooth, Fried",
+    "answer": "OIL"
   },
   {
     "index": 145,
-    "soal": "Bulat, Lempar, Tendang",
-    "jawaban": "BOLA"
+    "question": "Round, Throw, Kick",
+    "answer": "BALL"
   },
   {
     "index": 146,
-    "soal": "Roda dua, Kaki, Kayuh, Olahraga",
-    "jawaban": "SEPEDA"
+    "question": "Two wheel, Legs, Paddle, Sport",
+    "answer": "BIKE"
   },
   {
     "index": 147,
-    "soal": "Angka, Kecil, Hitung, Alat",
-    "jawaban": "KALKULATOR"
+    "question": "Number, Minor, Count, Tool",
+    "answer": "CALCULATOR"
   },
   {
     "index": 148,
-    "soal": "Kecil, Kelompok, Sarang, Hewan",
-    "jawaban": "SEMUT"
+    "question": "Small, Group, Nest, Animal",
+    "answer": "ANT"
   },
   {
     "index": 149,
-    "soal": "Pantai, Hewan, Invertebrata, Capit",
-    "jawaban": "KEPITING"
+    "question": "Beach, Animals, Invertebrates, Claws",
+    "answer": "CRAB"
   },
   {
     "index": 150,
-    "soal": "Menghibur, Sule, Tertawa",
-    "jawaban": "PELAWAK"
+    "question": "Entertaining, Sule, Laughing",
+    "answer": "JOKER"
   },
   {
     "index": 151,
-    "soal": "Mengelap, Kain, Kering, Mandi",
-    "jawaban": "HANDUK"
+    "question": "Wiping, Cloth, Dry, Bath",
+    "answer": "TOWELS"
   },
   {
     "index": 152,
-    "soal": "Bulat, Lubang, Tepung",
-    "jawaban": "DONAT"
+    "question": "Round, Hole, Flour",
+    "answer": "DONAT"
   },
   {
     "index": 153,
-    "soal": "Gerhana, Sinar, Malam",
-    "jawaban": "BULAN"
+    "question": "Eclipse, Light, Night",
+    "answer": "MONTH"
   },
   {
     "index": 154,
-    "soal": "Udara, Kaca, Rumah",
-    "jawaban": "JENDELA"
+    "question": "Air, Glass, House",
+    "answer": "WINDOW"
   },
   {
     "index": 155,
-    "soal": "Wadah, Makanan, Pecah",
-    "jawaban": "PIRING"
+    "question": "Container, Food, Broken",
+    "answer": "DISH"
   },
   {
     "index": 156,
-    "soal": "Hewan, Besar, Cula",
-    "jawaban": "BADAK"
+    "question": "Animal, Big, Horn",
+    "answer": "Rhinoceros"
   },
   {
     "index": 157,
-    "soal": "Bangunan, Tempat, Hunian",
-    "jawaban": "RUMAH"
+    "question": "Building, Place, Occupancy",
+    "answer": "HOUSE"
   },
   {
     "index": 158,
-    "soal": "Lubang, Wajah, Hirup, Nafas",
-    "jawaban": "HIDUNG"
+    "question": "Hole, Face, Breathe, Breath",
+    "answer": "NOSE"
   },
   {
     "index": 159,
-    "soal": "Pohon, Bagian Bawah",
-    "jawaban": "AKAR"
+    "question": "Tree, Bottom",
+    "answer": "ROOT"
   },
   {
     "index": 160,
-    "soal": "Alat, Makan, Menusuk",
-    "jawaban": "GARPU"
+    "question": "Tool, Eat, Stab",
+    "answer": "Fork"
   },
   {
     "index": 161,
-    "soal": "Luabang, Air, Timba",
-    "jawaban": "SUMUR"
+    "question": "Hole, Water, Dipper",
+    "answer": "WELL"
   },
   {
     "index": 162,
-    "soal": "Bagian, Belakang, Hewan",
-    "jawaban": "EKOR"
+    "question": "Section, Back, Animal",
+    "answer": "TAIL"
   },
   {
     "index": 163,
-    "soal": "Surya, Bumi, Sumber Terang",
-    "jawaban": "MATAHARI"
+    "question": "Sun, Earth, Source of Light",
+    "answer": "SUN"
   },
   {
     "index": 164,
-    "soal": "Kera, Langka, Hutan",
-    "jawaban": "ORANGUTAN"
+    "question": "Ape, Rare, Forest",
+    "answer": "ORANGUTAN"
   },
   {
     "index": 165,
-    "soal": "Air, Aliran, Hulu, Hilir",
-    "jawaban": "SUNGAI"
+    "question": "Water, Stream, Upstream, Downstream",
+    "answer": "RIVER"
   },
   {
     "index": 166,
-    "soal": "Buah, Bulan, Santan",
-    "jawaban": "KELAPA"
+    "question": "Fruit, Moon, Coconut Milk",
+    "answer": "COCONUT"
   },
   {
     "index": 167,
-    "soal": "Kadal, Ubah, Warna",
-    "jawaban": "BUNGLON"
+    "question": "Lizard, Change, Color",
+    "answer": "CHAMEL"
   },
   {
     "index": 168,
-    "soal": "Perusahaan, Negara, Minyak",
-    "jawaban": "PERTAMINA"
+    "question": "Company, State, Oil",
+    "answer": "PERTAMINA"
   },
   {
     "index": 169,
-    "soal": "Energi, Radioaktif, Uranium",
-    "jawaban": "NUKLIR"
+    "question": "Energy, Radioactive, Uranium",
+    "answer": "NUCLEAR"
   },
   {
     "index": 170,
-    "soal": "Ilmu, Sifat, Materi",
-    "jawaban": "FISIKA"
+    "question": "Science, Nature, Matter",
+    "answer": "PHYSICS"
   },
   {
     "index": 171,
-    "soal": "Galaksi, Tata Surya",
-    "jawaban": "BIMASAKTI"
+    "question": "Galaxy, Solar System",
+    "answer": "BIMASAKTI"
   },
   {
     "index": 172,
-    "soal": "Musik, Indonesia, Goyang, Gendang",
-    "jawaban": "DANGDUT"
+    "question": "Music, Indonesia, Shake, Drum",
+    "answer": "DANGDUT"
   },
   {
     "index": 173,
-    "soal": "Burung, Langka, Papua",
-    "jawaban": "CENDRAWASIH"
+    "question": "Birds, Rare, Papua",
+    "answer": "CENDRAWASIH"
   },
   {
     "index": 174,
-    "soal": "Tulang Besi, Wayang, Terbang, Sakti",
-    "jawaban": "GATOT KACA"
+    "question": "Iron Bone, Puppet, Flying, Magic",
+    "answer": "GATOT GLASS"
   },
   {
     "index": 175,
-    "soal": "Mentimun, Asam, Asin",
-    "jawaban": "ACAR"
+    "question": "Cucumber, Sour, Salty",
+    "answer": "PICKLES"
   },
   {
     "index": 176,
-    "soal": "Ruang, Tunggu, Bis",
-    "jawaban": "HALTE"
+    "question": "Room, Wait, Bus",
+    "answer": "HALTE"
   },
   {
     "index": 177,
-    "soal": "Tanah, Petani, Padi",
-    "jawaban": "SAWAH"
+    "question": "Land, Farmer, Rice",
+    "answer": "RICE"
   },
   {
     "index": 178,
-    "soal": "Bayi, Kencing, Lembut",
-    "jawaban": "POPOK"
+    "question": "Baby, Pee, Soft",
+    "answer": "DIAPER"
   },
   {
     "index": 179,
-    "soal": "Benda, Bermain, Duduk, Rantai",
-    "jawaban": "AYUNAN"
+    "question": "Object, Play, Sit, Chain",
+    "answer": "Swing"
   },
   {
     "index": 180,
-    "soal": "Tempat, Barang, Ruangan",
-    "jawaban": "GUDANG"
+    "question": "Place, Item, Room",
+    "answer": "WAREHOUSE"
   },
   {
     "index": 181,
-    "soal": "Benda, Tempat, Simpan, Pakaian",
-    "jawaban": "LEMARI"
+    "question": "Objects, Places, Stores, Clothes",
+    "answer": "CLOTHER"
   },
   {
     "index": 182,
-    "soal": "Hitam, Putih, Hujan, Melayang",
-    "jawaban": "AWAN"
+    "question": "Black, White, Rain, Floating",
+    "answer": "Cloud"
   },
   {
     "index": 183,
-    "soal": "Asap, Knalpot, Lingkungan",
-    "jawaban": "POLUSI"
+    "question": "Smoke, Exhaust, Environment",
+    "answer": "POLLUTION"
   },
   {
     "index": 184,
-    "soal": "Beras, Gula, Sayur",
-    "jawaban": "SEMBAKO"
+    "question": "Rice, Sugar, Vegetables",
+    "answer": "SHOPPING"
   },
   {
     "index": 185,
-    "soal": "Minyak Sayur, Santan, Tumbuhan",
-    "jawaban": "KELAPA"
+    "question": "Vegetable Oil, Coconut Milk, Plants",
+    "answer": "COCONUT"
   },
   {
     "index": 186,
-    "soal": "Kendaraan, Kayuh, Roda, Tiga",
-    "jawaban": "BECAK"
+    "question": "Vehicle, Paddle, Wheel, Three",
+    "answer": "rickshaw"
   },
   {
     "index": 187,
-    "soal": "Pelindung Rumah, Besi, Pingir Jalan",
-    "jawaban": "PAGAR"
+    "question": "House Protector, Iron, Roadside",
+    "answer": "FENCE"
   },
   {
     "index": 188,
-    "soal": "Alat, Debu, Bersih",
-    "jawaban": "KEMOCENG"
+    "question": "Tools, Dust, Clean",
+    "answer": "FUCK"
   },
   {
     "index": 189,
-    "soal": "Benda, Puntung, Sampah",
-    "jawaban": "ASBAK"
+    "question": "Things, Butts, Garbage",
+    "answer": "ashtray"
   },
   {
     "index": 190,
-    "soal": "Tempat, Naik/Turun, Lantai",
-    "jawaban": "LIFT"
+    "question": "Place, Up/Down, Floor",
+    "answer": "ELEVANT"
   },
   {
     "index": 191,
-    "soal": "Benda, Berdiri, Panjang",
-    "jawaban": "TIANG"
+    "question": "Object, Stand, Length",
+    "answer": "pole"
   },
   {
     "index": 192,
-    "soal": "Asin, Putih, Masakan",
-    "jawaban": "GARAM"
+    "question": "Salty, White, Cuisine",
+    "answer": "SALT"
   },
   {
     "index": 193,
-    "soal": "Meledak, Panas, Indah, Cahaya",
-    "jawaban": "KEMBANG API"
+    "question": "Exploding, Hot, Beautiful, Light",
+    "answer": "FIREWORKS"
   },
   {
     "index": 194,
-    "soal": "Acara, Peresmian, Sepasang",
-    "jawaban": "NIKAH"
+    "question": "Event, Inauguration, Couple",
+    "answer": "MARRIAGE"
   },
   {
     "index": 195,
-    "soal": "Putih, Biru, Menjaga",
-    "jawaban": "SATPAM"
+    "question": "White, Blue, Guard",
+    "answer": "SATPAM"
   },
   {
     "index": 196,
-    "soal": "Barat, Timur, Utara, Selatan",
-    "jawaban": "KOMPAS"
+    "question": "West, East, North, South",
+    "answer": "COMPASS"
   },
   {
     "index": 197,
-    "soal": "Tempat, Kereta, Tiket",
-    "jawaban": "STASIUN"
+    "question": "Places, Trains, Tickets",
+    "answer": "STATION"
   },
   {
     "index": 198,
-    "soal": "Transportasi, Roda Tiga, Kayu, Kuda",
-    "jawaban": "DELMAN"
+    "question": "Transportation, Tricycle, Wood, Horse",
+    "answer": "DELMAN"
   },
   {
     "index": 199,
-    "soal": "Roti, Stroberry, Cair",
-    "jawaban": "SELAI"
+    "question": "Bread, Strawberry, Liquid",
+    "answer": "JAM"
   },
   {
     "index": 200,
-    "soal": "Pelihara, Lucu, Taring, Lonceng",
-    "jawaban": "KUCING"
+    "question": "Keep, Funny, Fangs, Bells",
+    "answer": "CAT"
   },
   {
     "index": 201,
-    "soal": "Tabung, Air, Kaca",
-    "jawaban": "GELAS"
+    "question": "Tube, Water, Glass",
+    "answer": "GLASS"
   },
   {
     "index": 202,
-    "soal": "Penggalian, Benda, Kuno",
-    "jawaban": "ARKEOLOGI"
+    "question": "Excavation, Objects, Ancient",
+    "answer": "ARCHEOLOGY"
   },
   {
     "index": 203,
-    "soal": "Telinga, Alat, Musik, Bunyi",
-    "jawaban": "EARPHONE"
+    "question": "Ears, Instruments, Music, Sounds",
+    "answer": "EARPHONE"
   },
   {
     "index": 204,
-    "soal": "Duduk, Santai, Kayu, Kaki",
-    "jawaban": "KURSI"
+    "question": "Sit, Relax, Wood, Legs",
+    "answer": "CHAIR"
   },
   {
     "index": 205,
-    "soal": "Sejarah, Wisata, Yogya",
-    "jawaban": "BOROBUDUR"
+    "question": "History, Tourism, Yogya",
+    "answer": "BOROBUDUR"
   },
   {
     "index": 206,
-    "soal": "Runcing, Mulut, Makanan, Mengoyak",
-    "jawaban": "TARING"
+    "question": "Point, Mouth, Food, Tearing",
+    "answer": "FANG"
   },
   {
     "index": 207,
-    "soal": "Riak, Gulung, Air, Pantai",
-    "jawaban": "OMBAK"
+    "question": "Ripple, Roll, Water, Beach",
+    "answer": "WAVES"
   },
   {
     "index": 208,
-    "soal": "Udara, Bergerak, Sejuk",
-    "jawaban": "ANGIN"
+    "question": "Air, Moving, Cool",
+    "answer": "WIND"
   },
   {
     "index": 209,
-    "soal": "Hewan, Langka, Hutan,Kalimantan",
-    "jawaban": "ORANG UTAN"
+    "question": "Animals, Rare, Forest, Kalimantan",
+    "answer": "ORANGUTAN"
   },
   {
     "index": 210,
-    "soal": "Alat, Musik, Doremi, Kotak",
-    "jawaban": "PIANO"
+    "question": "Instruments, Music, Doremi, Box",
+    "answer": "PIANO"
   },
   {
     "index": 211,
-    "soal": "Wadah, Air, Toilet, Besar",
-    "jawaban": "EMBER"
+    "question": "Container, Water, Toilet, Large",
+    "answer": "BUcket"
   },
   {
     "index": 212,
-    "soal": "Buah, Oranye, Bulat",
-    "jawaban": "JERUK"
+    "question": "Fruit, Orange, Round",
+    "answer": "Orange"
   },
   {
     "index": 213,
-    "soal": "Rambut, Rapi, Rapat, Alat",
-    "jawaban": "SISIR"
+    "question": "Hair, Neat, Meeting, Tool",
+    "answer": "COMB"
   },
   {
     "index": 214,
-    "soal": "Kotak, Tidur, Empuk",
-    "jawaban": "KASUR"
+    "question": "Square, Sleep, Soft",
+    "answer": "MATTE"
   },
   {
     "index": 215,
-    "soal": "Udara, Ban, Naik/Turun",
-    "jawaban": "POMPA"
+    "question": "Air, Tires, Up/Down",
+    "answer": "PUMP"
   },
   {
     "index": 216,
-    "soal": "Tipis, Tajam, Benang",
-    "jawaban": "JARUM"
+    "question": "Thin, Sharp, Thread",
+    "answer": "NEW"
   },
   {
     "index": 217,
-    "soal": "Lap, Kaki, Kain",
-    "jawaban": "KESET"
+    "question": "Wipe, Feet, Cloth",
+    "answer": "MATTER"
   },
   {
     "index": 218,
-    "soal": "Tv, Alat, Jarak Jauh, Siaran",
-    "jawaban": "REMOT"
+    "question": "Tv, Device, Remote, Broadcast",
+    "answer": "REMOT"
   },
   {
     "index": 219,
-    "soal": "Madu, Hewan, Terbang",
-    "jawaban": "LEBAH"
+    "question": "Honey, Animal, Fly",
+    "answer": "BEES"
   },
   {
     "index": 220,
-    "soal": "Hewan, Dinding, Melata, Nempel",
-    "jawaban": "CICAK"
+    "question": "Animals, Walls, Creeps, Sticks",
+    "answer": "LICK"
   },
   {
     "index": 221,
-    "soal": "Alat, Gesek, Bunyi, Musik",
-    "jawaban": "BIOLA"
+    "question": "Tools, Swipe, Sounds, Music",
+    "answer": "Violin"
   },
   {
     "index": 222,
-    "soal": "Panjang, Listrik, Pln",
-    "jawaban": "KABEL"
+    "question": "Length, Electricity, Pln",
+    "answer": "CABLE"
   },
   {
     "index": 223,
-    "soal": "Alat, Makan, Tajam",
-    "jawaban": "GARPU"
+    "question": "Tool, Eat, Sharp",
+    "answer": "Fork"
   },
   {
     "index": 224,
-    "soal": "Alat, Potong, Dapur",
-    "jawaban": "PISAU"
+    "question": "Tools, Cut, Kitchen",
+    "answer": "KNIFE"
   },
   {
     "index": 225,
-    "soal": "Api, Kayu, Kecil",
-    "jawaban": "KOREK"
+    "question": "Fire, Wood, Small",
+    "answer": "CORRECT"
   },
   {
     "index": 226,
-    "soal": "Pekerjaan, Pesawat, Mengendarai",
-    "jawaban": "PILOT"
+    "question": "Job, Plane, Driving",
+    "answer": "PILOT"
   },
   {
     "index": 227,
-    "soal": "Kirim, Barang, Pekerjaan",
-    "jawaban": "KURIR"
+    "question": "Send, Item, Job",
+    "answer": "COURIER"
   },
   {
     "index": 228,
-    "soal": "Pekerjaan, Hitung, Belanja, Toko",
-    "jawaban": "KASIR"
+    "question": "Work, Count, Shop, Shop",
+    "answer": "CASHER"
   },
   {
     "index": 229,
-    "soal": "Pengobatan, Pekerjaan, Tradisional",
-    "jawaban": "TABIB"
+    "question": "Medicine, Occupational, Traditional",
+    "answer": "HEALTHER"
   },
   {
     "index": 230,
-    "soal": "Pekerjaan, Mengendarai, Delman",
-    "jawaban": "KUSIR"
+    "question": "Work, Riding, Delman",
+    "answer": "COLLER"
   },
   {
     "index": 231,
-    "soal": "Pohon, Lembah, Bukit, Lebat",
-    "jawaban": "HUTAN"
+    "question": "Trees, Valleys, Hills, Dense",
+    "answer": "Forest"
   },
   {
     "index": 232,
-    "soal": "Anak, Mainan, Lucu",
-    "jawaban": "BONEKA"
+    "question": "Kids, Toys, Funny",
+    "answer": "DOLL"
   },
   {
     "index": 233,
-    "soal": "Leher, Perhiasan, Emas",
-    "jawaban": "KALUNG"
+    "question": "Neck, Jewelery, Gold",
+    "answer": "NECKET"
   },
   {
     "index": 234,
-    "soal": "Transportasi, Panjang, Rel",
-    "jawaban": "KERETA"
+    "question": "Transportation, Length, Rail",
+    "answer": "TRAIN"
   },
   {
     "index": 235,
-    "soal": "Siaran, Sinyal, Tv, Alat",
-    "jawaban": "ANTENA"
+    "question": "Broadcast, Signal, Tv, Device",
+    "answer": "ANTENNA"
   },
   {
     "index": 236,
-    "soal": "Tempat, Kendaraan, Penyimpanan, Luas",
-    "jawaban": "PARKIRAN"
+    "question": "Place, Vehicle, Storage, Area",
+    "answer": "PARKING"
   },
   {
     "index": 237,
-    "soal": "Tiup, Bunyi, Alat",
-    "jawaban": "TEROMPET"
+    "question": "Blow, Sound, Tool",
+    "answer": "trumpet"
   },
   {
     "index": 238,
-    "soal": "Buah, Bulat, Air, Biji",
-    "jawaban": "SEMANGKA"
+    "question": "Fruit, Circle, Water, Seed",
+    "answer": "WATERMONE"
   },
   {
     "index": 239,
-    "soal": "Tempat, Guru, Murid, Belajar",
-    "jawaban": "SEKOLAH"
+    "question": "Place, Teacher, Student, Study",
+    "answer": "SCHOOL"
   },
   {
     "index": 240,
-    "soal": "Seram, Sepi, Tempat, Meninggal",
-    "jawaban": "KUBURAN"
+    "question": "Spooky, Lonely, Place, Died",
+    "answer": "GRABE"
   },
   {
     "index": 241,
-    "soal": "Pesawat, Tiket, Penerbangan",
-    "jawaban": "BANDARA"
+    "question": "Airplane, Ticket, Flight",
+    "answer": "AIRPORT"
   },
   {
     "index": 242,
-    "soal": "Loreng, Senjata, Perang",
-    "jawaban": "TENTARA"
+    "question": "Stripes, Weapons, War",
+    "answer": "SOLDIER"
   },
   {
     "index": 243,
-    "soal": "Tajam, Kayu, Potong",
-    "jawaban": "GERGAJI"
+    "question": "Sharp, Wood, Cut",
+    "answer": "SAW"
   },
   {
     "index": 244,
-    "soal": "Alat, Meledak, Lempar, Tentara",
-    "jawaban": "GERANAT"
+    "question": "Tool, Explode, Throw, Soldier",
+    "answer": "GRACE"
   },
   {
     "index": 245,
-    "soal": "Kotak, Komputer, Layar, Resolusi",
-    "jawaban": "MONITOR"
+    "question": "Grid, Computer, Screen, Resolution",
+    "answer": "MONITOR"
   },
   {
     "index": 246,
-    "soal": "Kotak, Kaca, Rumah, Depan",
-    "jawaban": "JENDELA"
+    "question": "Square, Glass, House, Front",
+    "answer": "WINDOW"
   },
   {
     "index": 247,
-    "soal": "Sawah, Petani, Tanah, Alat",
-    "jawaban": "CANGKUL"
+    "question": "Field, Farmer, Land, Tool",
+    "answer": "HOE"
   },
   {
     "index": 248,
-    "soal": "Dorong, Pedagang, Alat, Roda",
-    "jawaban": "GEROBAK"
+    "question": "Push, Merchant, Tool, Wheel",
+    "answer": "WARD"
   },
   {
     "index": 249,
-    "soal": "Hewan, Leher, Tinggi, Coklat",
-    "jawaban": "JERAPAH"
+    "question": "Animal, Neck, Height, Brown",
+    "answer": "Giraffe"
   },
   {
     "index": 250,
-    "soal": "Bunyi, Kucing, Benda, Leher",
-    "jawaban": "LONCENG"
+    "question": "Sound, Cat, Object, Neck",
+    "answer": "BELL"
   },
   {
     "index": 251,
-    "soal": "Tajam, Kertas, Potong, Alat",
-    "jawaban": "GUNTING"
+    "question": "Sharp, Paper, Cut, Tool",
+    "answer": "Scissors"
   },
   {
     "index": 252,
-    "soal": "Hewan, Wortel, Loncat",
-    "jawaban": "KELINCI"
+    "question": "Animal, Carrot, Jump",
+    "answer": "RABBIT"
   },
   {
     "index": 253,
-    "soal": "Bekerja, Tempat, Karyawan",
-    "jawaban": "KANTOR"
+    "question": "Work, Place, Employee",
+    "answer": "OFFICE"
   },
   {
     "index": 254,
-    "soal": "Tempat, Obat, Jual, Racikan",
-    "jawaban": "APOTEK"
+    "question": "Place, Medicine, Sell, Concoction",
+    "answer": "PHARMACEUTICAL"
   },
   {
     "index": 255,
-    "soal": "Rumah Sakit, Merawat, Pekerjaan",
-    "jawaban": "SUSTER"
+    "question": "Hospital, Nursing, Work",
+    "answer": "Sister"
   },
   {
     "index": 256,
-    "soal": "Mengayomi, Wanita, Keamanan",
-    "jawaban": "POLWAN"
+    "question": "Care, Women, Security",
+    "answer": "POLWAN"
   },
   {
     "index": 257,
-    "soal": "Suntik, Obat, Periksa, Pekerjaan",
-    "jawaban": "DOKTER"
+    "question": "Injections, Medicines, Checks, Jobs",
+    "answer": "DOCTOR"
   },
   {
     "index": 258,
-    "soal": "Tajam, Kesaktria, Senjata",
-    "jawaban": "PEDANG"
+    "question": "Sharp, Knight, Weapon",
+    "answer": "SWORD"
   },
   {
     "index": 259,
-    "soal": "Cahaya, Malam, Alat, Batterai",
-    "jawaban": "SENTER"
+    "question": "Light, Night, Tool, Battery",
+    "answer": "FLASH"
   },
   {
     "index": 260,
-    "soal": "Alas, Makanan, Bulat, Kaca",
-    "jawaban": "PIRING"
+    "question": "Place, Food, Circle, Glass",
+    "answer": "DISH"
   },
   {
     "index": 261,
-    "soal": "Serut, Kayu, Menulis, Alat",
-    "jawaban": "PENSIL"
+    "question": "Drawing, Wood, Writing, Tool",
+    "answer": "PENCIL"
   },
   {
     "index": 262,
-    "soal": "Alas, Kaki, Karet",
-    "jawaban": "SANDAL"
+    "question": "Base, Foot, Rubber",
+    "answer": "SANDAL"
   },
   {
     "index": 263,
-    "soal": "Kepiting, Hama Sawah, Air Tawar",
-    "jawaban": "YUYU"
+    "question": "Crabs, Field Pests, Freshwater",
+    "answer": "YUYU"
   },
   {
     "index": 264,
-    "soal": "Burung, Hitam, Peniru",
-    "jawaban": "BEO"
+    "question": "Bird, Black, Copycat",
+    "answer": "BEO"
   },
   {
     "index": 265,
-    "soal": "Rekening, Keuangan, Pekerjaan",
-    "jawaban": "AKUNTAN"
+    "question": "Account, Finance, Employment",
+    "answer": "accountant"
   },
   {
     "index": 266,
-    "soal": "Bergelambir, Tungkai, Panjang, Besar",
-    "jawaban": "KALKUN"
+    "question": "Walk, Legs, Long, Big",
+    "answer": "TURKEY"
   },
   {
     "index": 267,
-    "soal": "Tekhnology, Merancang, Pekerjaan",
-    "jawaban": "INSINYUR"
+    "question": "Technology, Designing, Work",
+    "answer": "ENGINEER"
   },
   {
     "index": 268,
-    "soal": "Capit, Merah, Kaki 10",
-    "jawaban": "KEPITING"
+    "question": "Claws, Red, Legs 10",
+    "answer": "CRAB"
   },
   {
     "index": 269,
-    "soal": "Mercedez Benz, Tembok Berlin, Nazi",
-    "jawaban": "JERMAN"
+    "question": "Mercedez Benz, Berlin Wall, Nazi",
+    "answer": "GERMANY"
   },
   {
     "index": 270,
-    "soal": "Kapal, Kapten, Perwira",
-    "jawaban": "NAHKODA"
+    "question": "Ship, Captain, Officer",
+    "answer": "CHOPPER"
   },
   {
     "index": 271,
-    "soal": "Gwyneth Paltrow, Paul Bettany, Johnny Depp",
-    "jawaban": "MORTDECAI"
+    "question": "Gwyneth Paltrow, Paul Bettany, Johnny Depp",
+    "answer": "MORTDECAI"
   },
   {
     "index": 272,
-    "soal": "Punggung Melengkung, Dikonsumsi, Hewan Laut",
-    "jawaban": "UDANG"
+    "question": "Back Curved, Consumed, Sea Animals",
+    "answer": "SHRIMP"
   },
   {
     "index": 273,
-    "soal": "Penyunting, Berita, Naskah",
-    "jawaban": "EDITOR"
+    "question": "Editor, News, Manuscript",
+    "answer": "EDITORS"
   },
   {
     "index": 274,
-    "soal": "Daging Merah, Perenang, Handal, Ikan",
-    "jawaban": "TUNA"
+    "question": "Red Meat, Swimmer, Reliable, Fish",
+    "answer": "TUNA"
   },
   {
     "index": 275,
-    "soal": "Berilmu, Pengajar, Sekolah",
-    "jawaban": "GURU"
+    "question": "Knowledge, Teacher, School",
+    "answer": "Teacher"
   },
   {
     "index": 276,
-    "soal": "Pekerjaan, Peraga, Produk",
-    "jawaban": "MODEL"
+    "question": "Job, Display, Product",
+    "answer": "MODEL"
   },
   {
     "index": 277,
-    "soal": "Bantuan, Hukum, Terdakwa",
-    "jawaban": "PENGACARA"
+    "question": "Aid, Law, Defendant",
+    "answer": "LAGYER"
   },
   {
     "index": 278,
-    "soal": "Leher Panjang, Itik, Putih",
-    "jawaban": "ANGSA"
+    "question": "Long Neck, Duck, White",
+    "answer": "GOOD"
   },
   {
     "index": 279,
-    "soal": "Molusca, Lambat, Bekicot",
-    "jawaban": "SIPUT"
+    "question": "Mollus, Slow, Snail",
+    "answer": "Snail"
   },
   {
     "index": 280,
-    "soal": "Kabupaten, Pns, Pemimpin",
-    "jawaban": "BUPATI"
+    "question": "District, Civil Servant, Leader",
+    "answer": "REGENT"
   },
   {
     "index": 281,
-    "soal": "Lipan, Nokturnal, Beracun",
-    "jawaban": "KELABANG"
+    "question": "Centipedes, Nocturnal, Poisonous",
+    "answer": "centipede"
   },
   {
     "index": 282,
-    "soal": "Hitam, Laut, Berduri",
-    "jawaban": "BABI LAUT"
+    "question": "Black, Sea, Barbed",
+    "answer": "SEA BOAR"
   },
   {
     "index": 283,
-    "soal": "Butir, Air, Langit",
-    "jawaban": "HUJAN"
+    "question": "Grain, Water, Sky",
+    "answer": "RAIN"
   },
   {
     "index": 284,
-    "soal": "Keyboard, Monitor, Wifi",
-    "jawaban": "LAPTOP"
+    "question": "Keyboard, Monitor, Wifi",
+    "answer": "LAPTOP"
   },
   {
     "index": 285,
-    "soal": "Orang, Penyakit, Sembuh",
-    "jawaban": "DOKTER"
+    "question": "Person, Illness, Heal",
+    "answer": "DOCTOR"
   },
   {
     "index": 286,
-    "soal": "Buah, Hijau, Merah",
-    "jawaban": "SEMANGKA"
+    "question": "Fruit, Green, Red",
+    "answer": "WATERMONE"
   },
   {
     "index": 287,
-    "soal": "Olahraga, Bulu, Tangkis",
-    "jawaban": "BADMINTON"
+    "question": "Sports, Badminton, Badminton",
+    "answer": "BADMINTON"
   },
   {
     "index": 288,
-    "soal": "Segitiga, Batu, Firaun",
-    "jawaban": "PIRAMIDA"
+    "question": "Triangle, Stone, Pharaoh",
+    "answer": "Pyramid"
   },
   {
     "index": 289,
-    "soal": "Candi, Megah, Buddha",
-    "jawaban": "BOROBUDUR"
+    "question": "Temple, Magnificent, Buddha",
+    "answer": "BOROBUDUR"
   },
   {
     "index": 290,
-    "soal": "Sansekerta, Ideologi Negara",
-    "jawaban": "PANCASILA"
+    "question": "Sanskrit, State Ideology",
+    "answer": "PANCASILA"
   },
   {
     "index": 291,
-    "soal": "Gunung, Jawa, Tertinggi",
-    "jawaban": "SEMERU"
+    "question": "Mountain, Java, Highest",
+    "answer": "SEMERU"
   },
   {
     "index": 292,
-    "soal": "Samudera, Terluas, Dunia",
-    "jawaban": "PASIFIK"
+    "question": "Ocean, Widest, World",
+    "answer": "PACIFIC"
   },
   {
     "index": 293,
-    "soal": "Burung, Lambang, Negara",
-    "jawaban": "GARUDA"
+    "question": "Bird, Coat, Country",
+    "answer": "GARUDA"
   },
   {
     "index": 294,
-    "soal": "Benda, Atap, Rumah",
-    "jawaban": "GENTENG"
+    "question": "Object, Roof, House",
+    "answer": "TIL"
   },
   {
     "index": 295,
-    "soal": "Gunung, Tertinggi, Dunia",
-    "jawaban": "EVEREST"
+    "question": "Mountain, Tallest, World",
+    "answer": "EVEREST"
   },
   {
     "index": 296,
-    "soal": "Penggalian, Benda, Kuno",
-    "jawaban": "ARKEOLOGI"
+    "question": "Excavation, Objects, Ancient",
+    "answer": "ARCHEOLOGY"
   },
   {
     "index": 297,
-    "soal": "Kera, Hidung, Besar",
-    "jawaban": "BEKANTAN"
+    "question": "Ape, Nose, Big",
+    "answer": "proboscis monkey"
   },
   {
     "index": 298,
-    "soal": "Pelabuhan, Pesawat, Terbang",
-    "jawaban": "BANDARA"
+    "question": "Port, Plane, Fly",
+    "answer": "AIRPORT"
   },
   {
     "index": 299,
-    "soal": "Hewan, Leher, Panjang",
-    "jawaban": "JERAPAH"
+    "question": "Animal, Neck, Length",
+    "answer": "Giraffe"
   },
   {
     "index": 300,
-    "soal": "Kolam, Besar, Buatan",
-    "jawaban": "WADUK"
+    "question": "Pool, Large, Artificial",
+    "answer": "reservoir"
   },
   {
     "index": 301,
-    "soal": "Buah, Kulit, Duri",
-    "jawaban": "DURIAN"
+    "question": "Fruit, Skin, Thorn",
+    "answer": "DURIAN"
   }
 ]
