@@ -1,37 +1,37 @@
 [
    {
        "soal": "Hotel Bintang 5 Jakarta",
-        "jawaban": [
+        "jawaban": 
             "sheraton",
             "the westin",
             "kempinski",
             "the langham",
             "borobudur",
             "hilton"
-           ]
+           
    },
  
     {
        "soal": "Hotel Bintang 4 akarta",
-        "jawaban": [
+        "jawaban": 
             "sheraton",
             "the westin",
             "kempdjski",
             "the langham",
             "borchdur",
             "hilton"
-           ]
+           
    },
     
    {
         "soal": "Hotel Bintang 3 Jakarta",
-        "jawaban": [
+        "jawaban": 
             "sheraton",
             "the westin",
             "kmpinski",
             "the langham",
             "borudur",
             "hilton"
-           ]
+           
    }
 ]
