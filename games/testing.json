@@ -1,6 +1,6 @@
 [
    {
-       soal": "Hotel Bintang 5 Jakarta",
+       "soal": "Hotel Bintang 5 Jakarta",
         "jawaban": [
             "sheraton",
             "the westin",
@@ -12,7 +12,7 @@
    },
  
     {
-       so1al": "Hotel Bintang 4 akarta",
+       "soal": "Hotel Bintang 4 akarta",
         "jawaban": [
             "sheraton",
             "the westin",
@@ -24,7 +24,7 @@
    },
     
    {
-        soal": "Hotel Bintang 3 Jakarta",
+        "soal": "Hotel Bintang 3 Jakarta",
         "jawaban": [
             "sheraton",
             "the westin",
