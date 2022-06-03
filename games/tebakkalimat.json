@@ -1,517 +1,517 @@
 [
   {
     "index": 0,
-    "soal": "Bagai anak  ... kehilangan induknya",
-    "jawaban": "ayam "
+    "question": "Like a child ... lost its mother",
+    "answer": "chicken"
   },
   {
     "index": 1,
-    "soal": "Bagai air di  ... talas",
-    "jawaban": "daun "
+    "question": "Like water in ... taro",
+    "answer": "leaf"
   },
   {
     "index": 2,
-    "soal": "Hidup dikandung  ... mati dikandung tanah",
-    "jawaban": "adat "
+    "question": "Life is conceived ... death is in the ground",
+    "answer": "custom"
   },
   {
     "index": 3,
-    "soal": "Jauh di  ... , dekat di hati",
-    "jawaban": "mata"
+    "question": "Far in ... , close at heart",
+    "answer": "eyes"
   },
   {
     "index": 4,
-    "soal": "Tak ada rotan  ... pun jadi",
-    "jawaban": "akar "
+    "question": "There is no rattan ... so",
+    "answer": "root"
   },
   {
     "index": 5,
-    "soal": "Utang emas boleh dibayar, Utang  ... dibawa mati",
-    "jawaban": "budi "
+    "question": "Gold debt may be paid, Debt ... taken to death",
+    "answer": "mind"
   },
   {
     "index": 6,
-    "soal": "Ada udang dibalik  ... ",
-    "jawaban": "batu"
+    "question": "There is a shrimp behind ... ",
+    "answer": "stone"
   },
   {
     "index": 7,
-    "soal": "Ada  ... ada semut",
-    "jawaban": "gula "
+    "question": "There are ... there are ants",
+    "answer": "sugar"
   },
   {
     "index": 8,
-    "soal": "Ada  ... ada api",
-    "jawaban": "asap "
+    "question": "There is ... there is fire",
+    "answer": "smoke"
   },
   {
     "index": 9,
-    "soal": "Bagai  ... dan langit",
-    "jawaban": "bumi "
+    "question": "Like ... and the sky",
+    "answer": "earth"
   },
   {
     "index": 10,
-    "soal": "Daripada hujan  ... di negeri orang, lebih baik hujan batu di negeri sendiri",
-    "jawaban": "emas "
+    "question": "Rather than rain ... in the land of others, it is better to rain stones in one's own country",
+    "answer": "gold"
   },
   {
     "index": 11,
-    "soal": "Dikasih  ... minta jantung",
-    "jawaban": "hati "
+    "question": "Given ... asked for a heart",
+    "answer": "heart"
   },
   {
     "index": 12,
-    "soal": " ... lubang tutup lubang",
-    "jawaban": "Gali "
+    "question": " ... hole cover hole",
+    "answer": "Dig"
   },
   {
     "index": 13,
-    "soal": "Hangat hangat  ... ayam",
-    "jawaban": "tahi "
+    "question": "Warm warm ... chicken",
+    "answer": "poop"
   },
   {
     "index": 14,
-    "soal": "Hemat pangkal  ... , rajin pangkal pandai",
-    "jawaban": "kaya"
+    "question": "Save basic... , diligent but smart",
+    "answer": "rich"
   },
   {
     "index": 15,
-    "soal": " ... bertanya sesat dijalan",
-    "jawaban": "Malu "
+    "question": " ... ask astray on the road",
+    "answer": "Shame"
   },
   {
     "index": 16,
-    "soal": " ... sudah menjadi bubur",
-    "jawaban": "Nasi "
+    "question": " ... has become mush",
+    "answer": "Rice"
   },
   {
     "index": 17,
-    "soal": "Pucuk dicinta  ... pun tiba",
-    "jawaban": "ulam "
+    "question": "The shoot of being loved ... has arrived",
+    "answer": "ulama"
   },
   {
     "index": 18,
-    "soal": "Seperti ilmu  ... makin berisi makin merunduk",
-    "jawaban": "padi "
+    "question": "Like science ... the more contained the more bent down",
+    "answer": "paddy"
   },
   {
     "index": 19,
-    "soal": "Tong  ...  nyaring bunyinya",
-    "jawaban": "kosong"
+    "question": "Keg ... loud sound",
+    "answer": "empty"
   },
   {
     "index": 20,
-    "soal": "Senjata makan  ... ",
-    "jawaban": "tuan"
+    "question": "Weapon eats ... ",
+    "answer": "master"
   },
   {
     "index": 21,
-    "soal": "Tak ada gading  ...  tak retak",
-    "jawaban": "yang"
+    "question": "No ivory ... no crack",
+    "answer": "which"
   },
   {
     "index": 22,
-    "soal": "Tak ada rotan, akar pun  ... ",
-    "jawaban": "jadi"
+    "question": "There is no rattan, not even roots ... ",
+    "answer": "so"
   },
   {
     "index": 23,
-    "soal": "Tuntutlah  ...  hingga ke negeri Cina",
-    "jawaban": "ilmu"
+    "question": "Require ... to the land of China",
+    "answer": "science"
   },
   {
     "index": 24,
-    "soal": "Tak ada  ...  akar pun jadi",
-    "jawaban": "rotan"
+    "question": "Nothing ... even roots",
+    "answer": "rattan"
   },
   {
     "index": 25,
-    "soal": "Besar  ...  daripada tiang",
-    "jawaban": "pasak"
+    "question": "Bigger ... than the pole",
+    "answer": "stake"
   },
   {
     "index": 26,
-    "soal": "Jauh di mata  ...  di hati",
-    "jawaban": "dekat"
+    "question": "Out of sight ... in the heart",
+    "answer": "close"
   },
   {
     "index": 27,
-    "soal": "Sepandai-pandainya  ...  melompat, sekali waktu jatuh juga",
-    "jawaban": "tupai"
+    "question": "As clever as ... jump, sometimes fall too",
+    "answer": "squirrel"
   },
   {
     "index": 28,
-    "soal": "Hancur  ...  dikandung tanah, budi baik dikenang juga",
-    "jawaban": "badan"
+    "question": "Destroyed ... conceived by the ground, kindness is remembered too",
+    "answer": "body"
   },
   {
     "index": 29,
-    "soal": "Bersatu kita  ... , bercerai kita runtuh",
-    "jawaban": "teguh"
+    "question": "United we ... , divided we fall",
+    "answer": "firm"
   },
   {
     "index": 30,
-    "soal": "Besar pasak daripada  ... ",
-    "jawaban": "tiang"
+    "question": "Large stake than ...",
+    "answer": "pole"
   },
   {
     "index": 31,
-    "soal": "Habis manis  ...  dibuang",
-    "jawaban": "sepah"
+    "question": "So sweet ... thrown away",
+    "answer": "sepah"
   },
   {
     "index": 32,
-    "soal": "Hemat pangkal kaya,  ...  pangkal pandai",
-    "jawaban": "rajin"
+    "question": "Save the base rich, ... base smart",
+    "answer": "diligent"
   },
   {
     "index": 33,
-    "soal": "Hidup  ...  mati tak hendak/mau",
-    "jawaban": "segan"
+    "question": "Live ... don't want to / don't want to die",
+    "answer": "reluctant"
   },
   {
     "index": 34,
-    "soal": "Karena nila setitik,  ...  susu sebelanga",
-    "jawaban": "rusak"
+    "question": "Because a speck of indigo, ... a can of milk",
+    "answer": "broken"
   },
   {
     "index": 35,
-    "soal": "Lain ladang lain belalang, lain  ...  lain ikannya",
-    "jawaban": "lubuk"
+    "question": "Different fields of grasshoppers, different ... different fish",
+    "answer": "bottom"
   },
   {
     "index": 36,
-    "soal": "Menjilat  ...  sendiri",
-    "jawaban": "ludah"
+    "question": "Lick ... myself",
+    "answer": "spit"
   },
   {
     "index": 37,
-    "soal": "Memancing di air  ... ",
-    "jawaban": "keruh"
+    "question": "Fishing in the water ... ",
+    "answer": "muddy"
   },
   {
     "index": 38,
-    "soal": " ...  makan tanaman",
-    "jawaban": "Pagar"
+    "question": " ... eat plants",
+    "answer": "Fence"
   },
   {
     "index": 39,
-    "soal": "Seperti kuda  ...  dari pinggitan",
-    "jawaban": "lepas"
+    "question": "Like a horse ... from the edge",
+    "answer": "let go"
   },
   {
     "index": 40,
-    "soal": "Air beriak tanda tak  ... ",
-    "jawaban": "dalam"
+    "question": "Water rippled no ... ",
+    "answer": "in"
   },
   {
     "index": 41,
-    "soal": "Ayam berkokok hari  ... ",
-    "jawaban": "siang"
+    "question": "The rooster crows the day ... ",
+    "answer": "afternoon"
   },
   {
     "index": 42,
-    "soal": "Bagai air di daun  ... ",
-    "jawaban": "talas"
+    "question": "Like water on a leaf ... ",
+    "answer": "taro"
   },
   {
     "index": 43,
-    "soal": "Bagai  ...  dalam tempurung",
-    "jawaban": "katak"
+    "question": "Like ... in a shell",
+    "answer": "frog"
   },
   {
     "index": 44,
-    "soal": "Di mana bumi di  ...  disitu langit dijunjung",
-    "jawaban": "pijak"
+    "question": "Where the earth is ... there the sky is upheld",
+    "answer": "step"
   },
   {
     "index": 45,
-    "soal": "Guru kencing berdiri,  ...  kencing berlari",
-    "jawaban": "murid"
+    "question": "Teacher pees standing up, ... pees running",
+    "answer": "student"
   },
   {
     "index": 46,
-    "soal": "Kecil-kecil cabai  ... ",
-    "jawaban": "rawit"
+    "question": "Small chili ...",
+    "answer": "cayenne"
   },
   {
     "index": 47,
-    "soal": "Sudah  ...  tertimpa tangga",
-    "jawaban": "jatuh"
+    "question": "Already ... hit the stairs",
+    "answer": "fall"
   },
   {
     "index": 48,
-    "soal": "Sambil menyelam  ...  air",
-    "jawaban": "minum"
+    "question": "While diving ... water",
+    "answer": "drink"
   },
   {
     "index": 49,
-    "soal": "Seperti ayam kehilangan  ... ",
-    "jawaban": "induk"
+    "question": "Like a chicken lost ... ",
+    "answer": "parent"
   },
   {
     "index": 50,
-    "soal": "Sedia payung sebelum  ... ",
-    "jawaban": "hujan"
+    "question": "Prepare umbrella before ...",
+    "answer": "rain"
   },
   {
     "index": 51,
-    "soal": "Sedikit demi sedikit lama-lama menjadi  ... ",
-    "jawaban": "bukit"
+    "question": "Little by little over time it becomes ... ",
+    "answer": "hill"
   },
   {
     "index": 52,
-    "soal": " ... mati dilumbung padi",
-    "jawaban": "Tikus "
+    "question": " ... die in the rice field",
+    "answer": "Rat"
   },
   {
     "index": 53,
-    "soal": " ...  ke bawah tumpul ke atas",
-    "jawaban": "Tajam"
+    "question": " ... down blunt up",
+    "answer": "Sharp"
   },
   {
     "index": 54,
-    "soal": " ...  adalah uang",
-    "jawaban": "Waktu"
+    "question": " ... is money",
+    "answer": "Time"
   },
   {
     "index": 55,
-    "soal": "Badai  ...  berlalu",
-    "jawaban": "pasti"
+    "question": "The storm ... passed",
+    "answer": "sure"
   },
   {
     "index": 56,
-    "soal": " ...  dalam selimut",
-    "jawaban": "Musuh"
+    "question": " ... in a blanket",
+    "answer": "enemy"
   },
   {
     "index": 57,
-    "soal": "Umur setahun jagung,  ...  setapuk pinang",
-    "jawaban": "darah"
+    "question": "A year old corn, ... a handful of betel nut",
+    "answer": "blood"
   },
   {
     "index": 58,
-    "soal": "Bagaikan  ...  dalam sangkar",
-    "jawaban": "burung"
+    "question": "Like ... in a cage",
+    "answer": "bird"
   },
   {
     "index": 59,
-    "soal": "Ada uang ada  ... ",
-    "jawaban": "barang"
+    "question": "There is money there ... ",
+    "answer": "item"
   },
   {
     "index": 60,
-    "soal": "Air  ...  tanda tak dalam",
-    "jawaban": "beriak"
+    "question": "Water ... not deep mark",
+    "answer": "ripple"
   },
   {
     "index": 61,
-    "soal": "Bagai  ...  dibelah dua",
-    "jawaban": "pinang"
+    "question": "Like ... halved",
+    "answer": "betel nut"
   },
   {
     "index": 62,
-    "soal": "Diam  ...  bahasa",
-    "jawaban": "seribu"
+    "question": "Silence ... language",
+    "answer": "a thousand"
   },
   {
     "index": 63,
-    "soal": "Harimau mati meninggalkan  ... , gajah mati meninggalkan gading",
-    "jawaban": "belang"
+    "question": "Tigers die leaving ... , elephants die leaving tusks",
+    "answer": "stripe"
   },
   {
     "index": 64,
-    "soal": " ... lupa akan kulitnya",
-    "jawaban": "Kacang "
+    "question": "...forgetting the skin",
+    "answer": "Beans"
   },
   {
     "index": 65,
-    "soal": " ... batu sembunyi tangan",
-    "jawaban": "Lempar "
+    "question": " ... stone hiding hand",
+    "answer": "Throw"
   },
   {
     "index": 66,
-    "soal": "Air  ...  menghanyutkan",
-    "jawaban": "tenang"
+    "question": "Water ... washes away",
+    "answer": "calm down"
   },
   {
     "index": 67,
-    "soal": "Datang tak dijemput  ...  tidak diantar",
-    "jawaban": "pulang"
+    "question": "Arrived not picked up ... not delivered",
+    "answer": "home"
   },
   {
     "index": 68,
-    "soal": "Dari  ...  yang jernih tak akan mengalir air yang keruh",
-    "jawaban": "telaga"
+    "question": "From ... clear water will not flow cloudy",
+    "answer": "pond"
   },
   {
     "index": 69,
-    "soal": " ...  badan dikandung tanah budi baik terkenang juga",
-    "jawaban": "Hancur"
+    "question": " ... the body contained in the good land is also remembered",
+    "answer": "Destroyed"
   },
   {
     "index": 70,
-    "soal": " ...  batu sembunyi tangan",
-    "jawaban": "Lempar"
+    "question": " ... stone hiding hand",
+    "answer": "Throw"
   },
   {
     "index": 71,
-    "soal": " ...  berbulu ayam",
-    "jawaban": "Musang"
+    "question": " ... hairy chicken",
+    "answer": "Weasel"
   },
   {
     "index": 72,
-    "soal": "Tak ada  ...  yang tak retak",
-    "jawaban": "gading"
+    "question": "Nothing ... that is not cracked",
+    "answer": "ivory"
   },
   {
     "index": 73,
-    "soal": "Tua-tua  ...  makin tua makin menjadi",
-    "jawaban": "keladi"
+    "question": "Elderly ... the older the more",
+    "answer": "caladium"
   },
   {
     "index": 74,
-    "soal": "Berat sama  ... , ringan sama dijinjing",
-    "jawaban": "dipikul"
+    "question": "Same weight... , light weight and carry",
+    "answer": "to bear"
   },
   {
     "index": 75,
-    "soal": "Bagai  ...  merindukan bulan",
-    "jawaban": "pungguk"
+    "question": "Like ... miss the moon",
+    "answer": "back"
   },
   {
     "index": 76,
-    "soal": "Air susu  ...  dengan air tuba",
-    "jawaban": "dibalas"
+    "question": "Milk ... with tubal water",
+    "answer": "reply"
   },
   {
     "index": 77,
-    "soal": "Bagai burung dalam  ... ",
-    "jawaban": "sangkar"
+    "question": "Like a bird in ...",
+    "answer": "cage"
   },
   {
     "index": 78,
-    "soal": "Berguru kepalang ajar seperti bunga  ...  tak jadi",
-    "jawaban": "kembang"
+    "question": "Learning indiscriminately is like a flower... it doesn't work",
+    "answer": "flower"
   },
   {
     "index": 79,
-    "soal": "Anjing menggonggong kafilah  ... ",
-    "jawaban": "berlalu"
+    "question": "The dog barks the caravan ... ",
+    "answer": "pass"
   },
   {
     "index": 80,
-    "soal": "Dunia tak  ...  daun kelor",
-    "jawaban": "selebar"
+    "question": "The world is not ... Moringa leaves",
+    "answer": "wide"
   },
   {
     "index": 81,
-    "soal": "Gajah di  ...  mata tak tampat, semut diseberang lautan tampak",
-    "jawaban": "pelupuk"
+    "question": "Elephant in ... invisible eye, ant across the sea visible",
+    "answer": "huddle"
   },
   {
     "index": 82,
-    "soal": "Gajah mati meninggalkan gading,  ...  mati meninggalkan belang",
-    "jawaban": "harimau"
+    "question": "Elephant dies leaving tusks, ... dies leaving stripes",
+    "answer": "tiger"
   },
   {
     "index": 83,
-    "soal": "Menepuk air di dulang, terpercik muka  ... ",
-    "jawaban": "sendiri"
+    "question": "Patted the water in the pan, splashed in the face...",
+    "answer": "alone"
   },
   {
     "index": 84,
-    "soal": "Seperti pinang  ...  dua",
-    "jawaban": "dibelah"
+    "question": "Like areca nut ... two",
+    "answer": "split"
   },
   {
     "index": 85,
-    "soal": "Bagai air di  ...  talas",
-    "jawaban": "daun"
+    "question": "Like water in ... taro",
+    "answer": "leaf"
   },
   {
     "index": 86,
-    "soal": "Dari semak ke  ... ",
-    "jawaban": "belukar"
+    "question": "From the bush to ... ",
+    "answer": "grove"
   },
   {
     "index": 87,
-    "soal": "Daripada hidup bercermin  ... , lebih baik mati berkalang tanah",
-    "jawaban": "bangkai"
+    "question": "Instead of living in the mirror... , it is better to die under the ground",
+    "answer": "carcass"
   },
   {
     "index": 88,
-    "soal": "Habis  ...  sepah dibuang",
-    "jawaban": "manis"
+    "question": "End of ... sepah thrown away",
+    "answer": "sweet"
   },
   {
     "index": 89,
-    "soal": "Jauh di  ... , dekat di hati",
-    "jawaban": "mata"
+    "question": "Far in ... , close at heart",
+    "answer": "eyes"
   },
   {
     "index": 90,
-    "soal": "Maksud hati  ...  gunung, apa daya tangan tak sampai",
-    "jawaban": "memeluk"
+    "question": "I mean... the mountain, can't my hand reach it",
+    "answer": "hug"
   },
   {
     "index": 91,
-    "soal": "Malu  ...  sesat di jalan",
-    "jawaban": "bertanya"
+    "question": "Shame ... lost on the road",
+    "answer": "ask"
   },
   {
     "index": 92,
-    "soal": "Sambil  ...  minum air",
-    "jawaban": "menyelam"
+    "question": "While ... drinking water",
+    "answer": "diving"
   },
   {
     "index": 93,
-    "soal": "Ada uang abang di  ... , tak ada uang abang melayang",
-    "jawaban": "sayang"
+    "question": "There is a brother's money in ... , there is no money floating brother",
+    "answer": "darling"
   },
   {
     "index": 94,
-    "soal": "Air susu dibalas dengan  ... ",
-    "jawaban": "air tuba"
+    "question": "Milk is answered with ... ",
+    "answer": "tubal water"
   },
   {
     "index": 95,
-    "soal": "Kacang lupa akan  ... ",
-    "jawaban": "kulitnya"
+    "question": "Beans forget about ... ",
+    "answer": "skin"
   },
   {
     "index": 96,
-    "soal": " ...  air ludah",
-    "jawaban": "Menjilat"
+    "question": " ... saliva",
+    "answer": "lick"
   },
   {
     "index": 97,
-    "soal": " ...  berburu/berbulu domba",
-    "jawaban": "Serigala"
+    "question": " ... hunting/in fleece",
+    "answer": "Wolf"
   },
   {
     "index": 98,
-    "soal": "Lidah tak  ... ",
-    "jawaban": "bertulang"
+    "question": "The tongue is not ... ",
+    "answer": "bony"
   },
   {
     "index": 99,
-    "soal": "Selama hayat masih di  ...  badan",
-    "jawaban": "kandung"
+    "question": "As long as life is still in the body",
+    "answer": "uterus"
   },
   {
     "index": 100,
-    "soal": "Jangan  ...  di air keruh",
-    "jawaban": "bercermin"
+    "question": "Don't ... in murky water",
+    "answer": "mirror"
   },
   {
     "index": 101,
-    "soal": "Selama janur kuning belum  ... , maka aku akan selalu mengejarmu demi mendapatkan cintamu",
-    "jawaban": "melengkung"
+    "question": "As long as the yellow leaf is not... , then I will always chase you to get your love",
+    "answer": "curved"
   },
   {
     "index": 102,
-    "soal": "Bagai makan  ...  simalakama",
-    "jawaban": "buah"
+    "question": "Like eating ... simalakama",
+    "answer": "fruit"
   }
 ]
